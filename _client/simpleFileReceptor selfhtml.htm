@@ -1,0 +1,77 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<title>HTTP POST Server in java</title>
+
+	<style type="text/css" media="screen">
+		img {
+			height: 100px;
+		}
+		
+		#dropzone {
+			width: 90%;
+			height: 200px;
+			padding: 2%;
+			background: white;
+			border: 1px solid #666;
+		}
+
+	</style>
+
+</head>
+<body>
+
+<title>HTTP POST Server in java</title>
+
+https://wiki.selfhtml.org/wiki/JavaScript/File_Upload
+
+<form action="http://127.0.0.1:8080" enctype="multipart/form-data" method="post">
+  Enter the name of the File 
+  <input name="file" type="file">
+<br>
+<input value="Upload" type="submit">
+</form>Upload only text files.
+
+<hr>
+
+<form enctype="multipart/form-data" action="http://127.0.0.1:8080" method="post">
+    <input id="image-file" type="file" />
+</form>
+
+<hr>
+
+<h1>JS - File Upload - 2</h1>
+<main role="main">
+	<div id="dropzone"> Ziehen Sie Ihre Dateien mit Drag & Drop hier herein:
+		<br> (Durch Drücken der [strg]-Taste können Sie mehrfach auswählen!) </div>
+	<output
+	id="list"></output>
+</main>
+<script>
+	function dateiauswahl(evt) {
+		evt.stopPropagation();
+		evt.preventDefault();
+		var gewaehlteDateien = evt.dataTransfer.files; // FileList Objekt
+		var output = [];
+		for (var i = 0, f; f = gewaehlteDateien[i]; i++) {
+			output.push('<li><strong>', escape(f.name), '</strong> (', f.type || 'n/a',
+				') - ', f.size, ' bytes, last modified: ', f.lastModifiedDate.toLocaleDateString(),
+				'</li>');
+		}
+		document.getElementById('list')
+			.innerHTML = '<ul>' + output.join('') + '</ul>';
+	}
+
+	function handleDragOver(evt) {
+			evt.stopPropagation();
+			evt.preventDefault();
+			evt.dataTransfer.dropEffect = 'copy';
+		}
+		// Initialisiere Drag&Drop EventListener
+	var dropZone = document.getElementById('dropzone');
+	dropZone.addEventListener('dragover', handleDragOver, false);
+	dropZone.addEventListener('drop', dateiauswahl, false);
+
+</script>
+
+</body>
+</html>
