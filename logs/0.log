@@ -1,0 +1,1968 @@
+2016.03.20 23.57.27 1 INFO: S E R V E R   S T A R T E D
+2016.03.20 23.57.43 14 INFO:  --> New Connection:/127.0.0.1:49690
+2016.03.20 23.57.43 14 INFO:  --> End Connection:/127.0.0.1:49690
+2016.03.20 23.57.51 15 INFO:  --> New Connection:/127.0.0.1:49693
+2016.03.20 23.57.51 15 INFO:  --> File to be uploaded = simpleFileReceptor stack.htm
+2016.03.20 23.57.51 15 INFO:  --> File zu
+2016.03.20 23.57.51 15 INFO:  --> Req behandelt
+2016.03.20 23.57.51 15 INFO:  --> Res gesendet
+2016.03.20 23.57.51 15 INFO:  --> End Connection:/127.0.0.1:49693
+2016.03.20 23.57.51 16 INFO:  --> New Connection:/127.0.0.1:49694
+2016.03.20 23.57.51 16 INFO:  --> File to be uploaded = simpleFileReceptor dropzone org.htm
+2016.03.20 23.57.51 16 INFO:  --> File zu
+2016.03.20 23.57.51 16 INFO:  --> Req behandelt
+2016.03.20 23.57.51 16 INFO:  --> Res gesendet
+2016.03.20 23.57.51 16 INFO:  --> End Connection:/127.0.0.1:49694
+2016.03.20 23.57.51 17 INFO:  --> New Connection:/127.0.0.1:49695
+2016.03.20 23.57.51 17 INFO:  --> File to be uploaded = simpleFileReceptor selfhtml.htm
+2016.03.20 23.57.51 17 INFO:  --> File zu
+2016.03.20 23.57.51 17 INFO:  --> Req behandelt
+2016.03.20 23.57.51 17 INFO:  --> Res gesendet
+2016.03.20 23.57.51 17 INFO:  --> End Connection:/127.0.0.1:49695
+2016.03.20 23.57.51 18 INFO:  --> New Connection:/127.0.0.1:49696
+2016.03.20 23.57.51 18 INFO:  --> File to be uploaded = old simpleFileReceptor.htm
+2016.03.20 23.57.51 18 INFO:  --> File zu
+2016.03.20 23.57.51 18 INFO:  --> Req behandelt
+2016.03.20 23.57.51 18 INFO:  --> Res gesendet
+2016.03.20 23.57.51 18 INFO:  --> End Connection:/127.0.0.1:49696
+2016.03.20 23.57.51 19 INFO:  --> New Connection:/127.0.0.1:49697
+2016.03.20 23.57.51 19 INFO:  --> File to be uploaded = old form 1.htm
+2016.03.20 23.57.51 19 INFO:  --> File zu
+2016.03.20 23.57.51 19 INFO:  --> Req behandelt
+2016.03.20 23.57.51 19 INFO:  --> Res gesendet
+2016.03.20 23.57.51 19 INFO:  --> End Connection:/127.0.0.1:49697
+2016.03.20 23.58.22 20 INFO:  --> New Connection:/127.0.0.1:49708
+2016.03.20 23.58.22 20 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.20 23.58.23 20 INFO:  --> File zu
+2016.03.20 23.58.23 20 INFO:  --> Req behandelt
+2016.03.20 23.58.23 20 INFO:  --> Res gesendet
+2016.03.20 23.58.23 20 INFO:  --> End Connection:/127.0.0.1:49708
+2016.03.20 23.58.23 21 INFO:  --> New Connection:/127.0.0.1:49709
+2016.03.20 23.58.23 21 INFO:  --> File to be uploaded = CA-wp1.jpg
+2016.03.20 23.58.23 21 INFO:  --> File zu
+2016.03.20 23.58.23 21 INFO:  --> Req behandelt
+2016.03.20 23.58.23 21 INFO:  --> Res gesendet
+2016.03.20 23.58.23 21 INFO:  --> End Connection:/127.0.0.1:49709
+2016.03.20 23.58.23 22 INFO:  --> New Connection:/127.0.0.1:49710
+2016.03.20 23.58.23 22 INFO:  --> File to be uploaded = CA-wp2.jpg
+2016.03.20 23.58.24 22 INFO:  --> File zu
+2016.03.20 23.58.24 22 INFO:  --> Req behandelt
+2016.03.20 23.58.24 22 INFO:  --> Res gesendet
+2016.03.20 23.58.24 22 INFO:  --> End Connection:/127.0.0.1:49710
+2016.03.20 23.58.24 23 INFO:  --> New Connection:/127.0.0.1:49711
+2016.03.20 23.58.24 23 INFO:  --> File to be uploaded = AU-wp6.jpg
+2016.03.20 23.58.24 23 INFO:  --> File zu
+2016.03.20 23.58.24 23 INFO:  --> Req behandelt
+2016.03.20 23.58.24 23 INFO:  --> Res gesendet
+2016.03.20 23.58.24 23 INFO:  --> End Connection:/127.0.0.1:49711
+2016.03.20 23.58.41 24 INFO:  --> New Connection:/127.0.0.1:49717
+2016.03.20 23.58.41 24 INFO:  --> File to be uploaded = a.jpg
+2016.03.20 23.58.41 24 INFO:  --> File zu
+2016.03.20 23.58.41 24 INFO:  --> Req behandelt
+2016.03.20 23.58.41 24 INFO:  --> Res gesendet
+2016.03.20 23.58.41 24 INFO:  --> End Connection:/127.0.0.1:49717
+2016.03.20 23.58.41 25 INFO:  --> New Connection:/127.0.0.1:49718
+2016.03.20 23.58.41 25 INFO:  --> File to be uploaded = a.tif
+2016.03.20 23.58.41 25 INFO:  --> File zu
+2016.03.20 23.58.41 25 INFO:  --> Req behandelt
+2016.03.20 23.58.41 25 INFO:  --> Res gesendet
+2016.03.20 23.58.41 25 INFO:  --> End Connection:/127.0.0.1:49718
+2016.03.20 23.58.48 26 INFO:  --> New Connection:/127.0.0.1:49721
+2016.03.20 23.58.48 26 INFO:  --> File to be uploaded = a.jpg
+2016.03.20 23.58.48 26 INFO:  --> File zu
+2016.03.20 23.58.48 26 INFO:  --> Req behandelt
+2016.03.20 23.58.48 26 INFO:  --> Res gesendet
+2016.03.20 23.58.48 26 INFO:  --> End Connection:/127.0.0.1:49721
+2016.03.20 23.58.48 27 INFO:  --> New Connection:/127.0.0.1:49722
+2016.03.20 23.58.48 27 INFO:  --> File to be uploaded = a.tif
+2016.03.20 23.58.48 27 INFO:  --> File zu
+2016.03.20 23.58.48 27 INFO:  --> Req behandelt
+2016.03.20 23.58.48 27 INFO:  --> Res gesendet
+2016.03.20 23.58.48 27 INFO:  --> End Connection:/127.0.0.1:49722
+2016.03.20 23.59.02 28 INFO:  --> New Connection:/127.0.0.1:49724
+2016.03.20 23.59.02 28 INFO:  --> File to be uploaded = AU-wp6.jpg
+2016.03.20 23.59.02 28 INFO:  --> File zu
+2016.03.20 23.59.02 28 INFO:  --> Req behandelt
+2016.03.20 23.59.02 28 INFO:  --> Res gesendet
+2016.03.20 23.59.02 28 INFO:  --> End Connection:/127.0.0.1:49724
+2016.03.20 23.59.02 29 INFO:  --> New Connection:/127.0.0.1:49725
+2016.03.20 23.59.02 29 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.20 23.59.03 29 INFO:  --> File zu
+2016.03.20 23.59.03 29 INFO:  --> Req behandelt
+2016.03.20 23.59.03 29 INFO:  --> Res gesendet
+2016.03.20 23.59.03 29 INFO:  --> End Connection:/127.0.0.1:49725
+2016.03.20 23.59.03 30 INFO:  --> New Connection:/127.0.0.1:49726
+2016.03.20 23.59.03 30 INFO:  --> File to be uploaded = CA-wp1.jpg
+2016.03.20 23.59.03 30 INFO:  --> File zu
+2016.03.20 23.59.03 30 INFO:  --> Req behandelt
+2016.03.20 23.59.03 30 INFO:  --> Res gesendet
+2016.03.20 23.59.03 30 INFO:  --> End Connection:/127.0.0.1:49726
+2016.03.20 23.59.03 31 INFO:  --> New Connection:/127.0.0.1:49727
+2016.03.20 23.59.03 31 INFO:  --> File to be uploaded = CA-wp2.jpg
+2016.03.20 23.59.03 31 INFO:  --> File zu
+2016.03.20 23.59.03 31 INFO:  --> Req behandelt
+2016.03.20 23.59.03 31 INFO:  --> Res gesendet
+2016.03.20 23.59.03 31 INFO:  --> End Connection:/127.0.0.1:49727
+2016.03.20 23.59.03 32 INFO:  --> New Connection:/127.0.0.1:49728
+2016.03.20 23.59.03 32 INFO:  --> File to be uploaded = CA-wp20.jpg
+2016.03.20 23.59.03 32 INFO:  --> File zu
+2016.03.20 23.59.03 32 INFO:  --> Req behandelt
+2016.03.20 23.59.03 32 INFO:  --> Res gesendet
+2016.03.20 23.59.03 32 INFO:  --> End Connection:/127.0.0.1:49728
+2016.03.20 23.59.03 33 INFO:  --> New Connection:/127.0.0.1:49729
+2016.03.20 23.59.03 33 INFO:  --> File to be uploaded = old form 1.htm
+2016.03.20 23.59.03 33 INFO:  --> File zu
+2016.03.20 23.59.03 33 INFO:  --> Req behandelt
+2016.03.20 23.59.03 33 INFO:  --> Res gesendet
+2016.03.20 23.59.03 33 INFO:  --> End Connection:/127.0.0.1:49729
+2016.03.20 23.59.03 34 INFO:  --> New Connection:/127.0.0.1:49730
+2016.03.20 23.59.03 34 INFO:  --> File to be uploaded = old simpleFileReceptor.htm
+2016.03.20 23.59.03 34 INFO:  --> File zu
+2016.03.20 23.59.03 34 INFO:  --> Req behandelt
+2016.03.20 23.59.03 34 INFO:  --> Res gesendet
+2016.03.20 23.59.03 34 INFO:  --> End Connection:/127.0.0.1:49730
+2016.03.20 23.59.03 35 INFO:  --> New Connection:/127.0.0.1:49731
+2016.03.20 23.59.03 35 INFO:  --> File to be uploaded = simpleFileReceptor dropzone org.htm
+2016.03.20 23.59.03 35 INFO:  --> File zu
+2016.03.20 23.59.03 35 INFO:  --> Req behandelt
+2016.03.20 23.59.03 35 INFO:  --> Res gesendet
+2016.03.20 23.59.03 35 INFO:  --> End Connection:/127.0.0.1:49731
+2016.03.20 23.59.03 36 INFO:  --> New Connection:/127.0.0.1:49732
+2016.03.20 23.59.03 36 INFO:  --> File to be uploaded = simpleFileReceptor selfhtml.htm
+2016.03.20 23.59.03 36 INFO:  --> File zu
+2016.03.20 23.59.03 36 INFO:  --> Req behandelt
+2016.03.20 23.59.03 36 INFO:  --> Res gesendet
+2016.03.20 23.59.03 36 INFO:  --> End Connection:/127.0.0.1:49732
+2016.03.20 23.59.03 37 INFO:  --> New Connection:/127.0.0.1:49733
+2016.03.20 23.59.03 37 INFO:  --> File to be uploaded = simpleFileReceptor stack.htm
+2016.03.20 23.59.03 37 INFO:  --> File zu
+2016.03.20 23.59.03 37 INFO:  --> Req behandelt
+2016.03.20 23.59.03 37 INFO:  --> Res gesendet
+2016.03.20 23.59.03 37 INFO:  --> End Connection:/127.0.0.1:49733
+2016.03.20 23.59.03 38 INFO:  --> New Connection:/127.0.0.1:49734
+2016.03.20 23.59.03 38 INFO:  --> File to be uploaded = a.jpg
+2016.03.20 23.59.03 38 INFO:  --> File zu
+2016.03.20 23.59.03 38 INFO:  --> Req behandelt
+2016.03.20 23.59.03 38 INFO:  --> Res gesendet
+2016.03.20 23.59.03 38 INFO:  --> End Connection:/127.0.0.1:49734
+2016.03.20 23.59.03 39 INFO:  --> New Connection:/127.0.0.1:49735
+2016.03.20 23.59.03 39 INFO:  --> File to be uploaded = a.tif
+2016.03.20 23.59.04 39 INFO:  --> File zu
+2016.03.20 23.59.04 39 INFO:  --> Req behandelt
+2016.03.20 23.59.04 39 INFO:  --> Res gesendet
+2016.03.20 23.59.04 39 INFO:  --> End Connection:/127.0.0.1:49735
+2016.03.20 23.59.04 40 INFO:  --> New Connection:/127.0.0.1:49736
+2016.03.20 23.59.04 40 INFO:  --> File to be uploaded = a0.tif
+2016.03.20 23.59.05 40 INFO:  --> File zu
+2016.03.20 23.59.05 40 INFO:  --> Req behandelt
+2016.03.20 23.59.05 40 INFO:  --> Res gesendet
+2016.03.20 23.59.05 40 INFO:  --> End Connection:/127.0.0.1:49736
+2016.03.20 23.59.32 41 INFO:  --> New Connection:/127.0.0.1:49740
+2016.03.20 23.59.32 41 INFO:  --> File to be uploaded = a.jpg
+2016.03.20 23.59.32 41 INFO:  --> File zu
+2016.03.20 23.59.32 41 INFO:  --> Req behandelt
+2016.03.20 23.59.32 41 INFO:  --> Res gesendet
+2016.03.20 23.59.32 41 INFO:  --> End Connection:/127.0.0.1:49740
+2016.03.20 23.59.32 42 INFO:  --> New Connection:/127.0.0.1:49741
+2016.03.20 23.59.32 42 INFO:  --> File to be uploaded = a.tif
+2016.03.20 23.59.33 42 INFO:  --> File zu
+2016.03.20 23.59.33 42 INFO:  --> Req behandelt
+2016.03.20 23.59.33 42 INFO:  --> Res gesendet
+2016.03.20 23.59.33 42 INFO:  --> End Connection:/127.0.0.1:49741
+2016.03.20 23.59.47 43 INFO:  --> New Connection:/127.0.0.1:49745
+2016.03.20 23.59.47 43 INFO:  --> File to be uploaded = a.tif
+2016.03.20 23.59.48 43 INFO:  --> File zu
+2016.03.20 23.59.48 43 INFO:  --> Req behandelt
+2016.03.20 23.59.48 43 INFO:  --> Res gesendet
+2016.03.20 23.59.48 43 INFO:  --> End Connection:/127.0.0.1:49745
+2016.03.20 23.59.48 44 INFO:  --> New Connection:/127.0.0.1:49746
+2016.03.20 23.59.48 44 INFO:  --> File to be uploaded = a.jpg
+2016.03.20 23.59.48 44 INFO:  --> File zu
+2016.03.20 23.59.48 44 INFO:  --> Req behandelt
+2016.03.20 23.59.48 44 INFO:  --> Res gesendet
+2016.03.20 23.59.48 44 INFO:  --> End Connection:/127.0.0.1:49746
+2016.03.21 00.00.12 45 INFO:  --> New Connection:/127.0.0.1:49750
+2016.03.21 00.00.12 45 INFO:  --> File to be uploaded = a.tif
+2016.03.21 00.00.12 45 INFO:  --> File zu
+2016.03.21 00.00.12 45 INFO:  --> Req behandelt
+2016.03.21 00.00.12 45 INFO:  --> Res gesendet
+2016.03.21 00.00.12 45 INFO:  --> End Connection:/127.0.0.1:49750
+2016.03.21 00.00.12 46 INFO:  --> New Connection:/127.0.0.1:49751
+2016.03.21 00.00.12 46 INFO:  --> File to be uploaded = a.jpg
+2016.03.21 00.00.13 46 INFO:  --> File zu
+2016.03.21 00.00.13 46 INFO:  --> Req behandelt
+2016.03.21 00.00.13 46 INFO:  --> Res gesendet
+2016.03.21 00.00.13 46 INFO:  --> End Connection:/127.0.0.1:49751
+2016.03.21 00.00.22 47 INFO:  --> New Connection:/127.0.0.1:49754
+2016.03.21 00.00.22 47 INFO:  --> File to be uploaded = a.jpg
+2016.03.21 00.00.22 47 INFO:  --> File zu
+2016.03.21 00.00.22 47 INFO:  --> Req behandelt
+2016.03.21 00.00.22 47 INFO:  --> Res gesendet
+2016.03.21 00.00.22 47 INFO:  --> End Connection:/127.0.0.1:49754
+2016.03.21 00.00.22 48 INFO:  --> New Connection:/127.0.0.1:49755
+2016.03.21 00.00.22 48 INFO:  --> File to be uploaded = a.tif
+2016.03.21 00.00.23 48 INFO:  --> File zu
+2016.03.21 00.00.23 48 INFO:  --> Req behandelt
+2016.03.21 00.00.23 48 INFO:  --> Res gesendet
+2016.03.21 00.00.23 48 INFO:  --> End Connection:/127.0.0.1:49755
+2016.03.21 00.00.23 49 INFO:  --> New Connection:/127.0.0.1:49756
+2016.03.21 00.00.23 49 INFO:  --> File to be uploaded = a0.jpg
+2016.03.21 00.00.23 49 INFO:  --> File zu
+2016.03.21 00.00.23 49 INFO:  --> Req behandelt
+2016.03.21 00.00.23 49 INFO:  --> Res gesendet
+2016.03.21 00.00.23 49 INFO:  --> End Connection:/127.0.0.1:49756
+2016.03.21 00.00.23 50 INFO:  --> New Connection:/127.0.0.1:49757
+2016.03.21 00.00.23 50 INFO:  --> File to be uploaded = a0.tif
+2016.03.21 00.00.23 50 INFO:  --> File zu
+2016.03.21 00.00.23 50 INFO:  --> Req behandelt
+2016.03.21 00.00.23 50 INFO:  --> Res gesendet
+2016.03.21 00.00.23 50 INFO:  --> End Connection:/127.0.0.1:49757
+2016.03.21 00.00.41 51 INFO:  --> New Connection:/127.0.0.1:49762
+2016.03.21 00.00.41 51 INFO:  --> File to be uploaded = a.jpg
+2016.03.21 00.00.41 51 INFO:  --> File zu
+2016.03.21 00.00.41 51 INFO:  --> Req behandelt
+2016.03.21 00.00.41 51 INFO:  --> Res gesendet
+2016.03.21 00.00.41 51 INFO:  --> End Connection:/127.0.0.1:49762
+2016.03.21 00.00.41 52 INFO:  --> New Connection:/127.0.0.1:49763
+2016.03.21 00.00.41 52 INFO:  --> File to be uploaded = a.tif
+2016.03.21 00.00.42 52 INFO:  --> File zu
+2016.03.21 00.00.42 52 INFO:  --> Req behandelt
+2016.03.21 00.00.42 52 INFO:  --> Res gesendet
+2016.03.21 00.00.42 52 INFO:  --> End Connection:/127.0.0.1:49763
+2016.03.21 00.00.42 53 INFO:  --> New Connection:/127.0.0.1:49764
+2016.03.21 00.00.42 53 INFO:  --> File to be uploaded = a0.jpg
+2016.03.21 00.00.42 53 INFO:  --> File zu
+2016.03.21 00.00.42 53 INFO:  --> Req behandelt
+2016.03.21 00.00.42 53 INFO:  --> Res gesendet
+2016.03.21 00.00.42 53 INFO:  --> End Connection:/127.0.0.1:49764
+2016.03.21 00.00.42 54 INFO:  --> New Connection:/127.0.0.1:49765
+2016.03.21 00.00.42 54 INFO:  --> File to be uploaded = a0.tif
+2016.03.21 00.00.43 54 INFO:  --> File zu
+2016.03.21 00.00.43 54 INFO:  --> Req behandelt
+2016.03.21 00.00.43 54 INFO:  --> Res gesendet
+2016.03.21 00.00.43 54 INFO:  --> End Connection:/127.0.0.1:49765
+2016.03.21 00.00.43 55 INFO:  --> New Connection:/127.0.0.1:49767
+2016.03.21 00.00.43 55 INFO:  --> File to be uploaded = a00.jpg
+2016.03.21 00.00.43 55 INFO:  --> File zu
+2016.03.21 00.00.43 55 INFO:  --> Req behandelt
+2016.03.21 00.00.43 55 INFO:  --> Res gesendet
+2016.03.21 00.00.43 55 INFO:  --> End Connection:/127.0.0.1:49767
+2016.03.21 00.00.43 56 INFO:  --> New Connection:/127.0.0.1:49768
+2016.03.21 00.00.43 56 INFO:  --> File to be uploaded = a00.tif
+2016.03.21 00.00.44 56 INFO:  --> File zu
+2016.03.21 00.00.44 56 INFO:  --> Req behandelt
+2016.03.21 00.00.44 56 INFO:  --> Res gesendet
+2016.03.21 00.00.44 56 INFO:  --> End Connection:/127.0.0.1:49768
+2016.03.21 00.00.44 57 INFO:  --> New Connection:/127.0.0.1:49769
+2016.03.21 00.00.44 57 INFO:  --> File to be uploaded = a1.jpg
+2016.03.21 00.00.44 57 INFO:  --> File zu
+2016.03.21 00.00.44 57 INFO:  --> Req behandelt
+2016.03.21 00.00.44 57 INFO:  --> Res gesendet
+2016.03.21 00.00.44 57 INFO:  --> End Connection:/127.0.0.1:49769
+2016.03.21 00.00.44 58 INFO:  --> New Connection:/127.0.0.1:49770
+2016.03.21 00.00.44 58 INFO:  --> File to be uploaded = a1.tif
+2016.03.21 00.00.45 58 INFO:  --> File zu
+2016.03.21 00.00.45 58 INFO:  --> Req behandelt
+2016.03.21 00.00.45 58 INFO:  --> Res gesendet
+2016.03.21 00.00.45 58 INFO:  --> End Connection:/127.0.0.1:49770
+2016.03.21 00.00.50 59 INFO:  --> New Connection:/127.0.0.1:49771
+2016.03.21 00.00.50 59 INFO:  --> File to be uploaded = a.jpg
+2016.03.21 00.00.50 59 INFO:  --> File zu
+2016.03.21 00.00.50 59 INFO:  --> Req behandelt
+2016.03.21 00.00.50 59 INFO:  --> Res gesendet
+2016.03.21 00.00.50 59 INFO:  --> End Connection:/127.0.0.1:49771
+2016.03.21 00.00.50 60 INFO:  --> New Connection:/127.0.0.1:49772
+2016.03.21 00.00.50 60 INFO:  --> File to be uploaded = a.tif
+2016.03.21 00.00.51 60 INFO:  --> File zu
+2016.03.21 00.00.51 60 INFO:  --> Req behandelt
+2016.03.21 00.00.51 60 INFO:  --> Res gesendet
+2016.03.21 00.00.51 60 INFO:  --> End Connection:/127.0.0.1:49772
+2016.03.21 00.00.51 61 INFO:  --> New Connection:/127.0.0.1:49773
+2016.03.21 00.00.51 61 INFO:  --> File to be uploaded = a0.jpg
+2016.03.21 00.00.51 61 INFO:  --> File zu
+2016.03.21 00.00.51 61 INFO:  --> Req behandelt
+2016.03.21 00.00.51 61 INFO:  --> Res gesendet
+2016.03.21 00.00.51 61 INFO:  --> End Connection:/127.0.0.1:49773
+2016.03.21 00.00.51 62 INFO:  --> New Connection:/127.0.0.1:49774
+2016.03.21 00.00.51 62 INFO:  --> File to be uploaded = a0.tif
+2016.03.21 00.00.52 62 INFO:  --> File zu
+2016.03.21 00.00.52 62 INFO:  --> Req behandelt
+2016.03.21 00.00.52 62 INFO:  --> Res gesendet
+2016.03.21 00.00.52 62 INFO:  --> End Connection:/127.0.0.1:49774
+2016.03.21 00.00.52 63 INFO:  --> New Connection:/127.0.0.1:49775
+2016.03.21 00.00.52 63 INFO:  --> File to be uploaded = a00.jpg
+2016.03.21 00.00.52 63 INFO:  --> File zu
+2016.03.21 00.00.52 63 INFO:  --> Req behandelt
+2016.03.21 00.00.52 63 INFO:  --> Res gesendet
+2016.03.21 00.00.52 63 INFO:  --> End Connection:/127.0.0.1:49775
+2016.03.21 00.00.52 64 INFO:  --> New Connection:/127.0.0.1:49776
+2016.03.21 00.00.52 64 INFO:  --> File to be uploaded = a00.tif
+2016.03.21 00.00.53 64 INFO:  --> File zu
+2016.03.21 00.00.53 64 INFO:  --> Req behandelt
+2016.03.21 00.00.53 64 INFO:  --> Res gesendet
+2016.03.21 00.00.53 64 INFO:  --> End Connection:/127.0.0.1:49776
+2016.03.21 00.00.53 65 INFO:  --> New Connection:/127.0.0.1:49777
+2016.03.21 00.00.53 65 INFO:  --> File to be uploaded = a000.jpg
+2016.03.21 00.00.53 65 INFO:  --> File zu
+2016.03.21 00.00.53 65 INFO:  --> Req behandelt
+2016.03.21 00.00.53 65 INFO:  --> Res gesendet
+2016.03.21 00.00.53 65 INFO:  --> End Connection:/127.0.0.1:49777
+2016.03.21 00.00.53 66 INFO:  --> New Connection:/127.0.0.1:49778
+2016.03.21 00.00.53 66 INFO:  --> File to be uploaded = a000.tif
+2016.03.21 00.00.54 66 INFO:  --> File zu
+2016.03.21 00.00.54 66 INFO:  --> Req behandelt
+2016.03.21 00.00.54 66 INFO:  --> Res gesendet
+2016.03.21 00.00.54 66 INFO:  --> End Connection:/127.0.0.1:49778
+2016.03.21 00.00.54 67 INFO:  --> New Connection:/127.0.0.1:49779
+2016.03.21 00.00.54 67 INFO:  --> File to be uploaded = a01.jpg
+2016.03.21 00.00.54 67 INFO:  --> File zu
+2016.03.21 00.00.54 67 INFO:  --> Req behandelt
+2016.03.21 00.00.54 67 INFO:  --> Res gesendet
+2016.03.21 00.00.54 67 INFO:  --> End Connection:/127.0.0.1:49779
+2016.03.21 00.00.54 68 INFO:  --> New Connection:/127.0.0.1:49780
+2016.03.21 00.00.54 68 INFO:  --> File to be uploaded = a01.tif
+2016.03.21 00.00.55 68 INFO:  --> File zu
+2016.03.21 00.00.55 68 INFO:  --> Req behandelt
+2016.03.21 00.00.55 68 INFO:  --> Res gesendet
+2016.03.21 00.00.55 68 INFO:  --> End Connection:/127.0.0.1:49780
+2016.03.21 00.00.55 69 INFO:  --> New Connection:/127.0.0.1:49781
+2016.03.21 00.00.55 69 INFO:  --> File to be uploaded = a1.jpg
+2016.03.21 00.00.55 69 INFO:  --> File zu
+2016.03.21 00.00.55 69 INFO:  --> Req behandelt
+2016.03.21 00.00.55 69 INFO:  --> Res gesendet
+2016.03.21 00.00.55 69 INFO:  --> End Connection:/127.0.0.1:49781
+2016.03.21 00.00.55 70 INFO:  --> New Connection:/127.0.0.1:49782
+2016.03.21 00.00.55 70 INFO:  --> File to be uploaded = a1.tif
+2016.03.21 00.00.56 70 INFO:  --> File zu
+2016.03.21 00.00.56 70 INFO:  --> Req behandelt
+2016.03.21 00.00.56 70 INFO:  --> Res gesendet
+2016.03.21 00.00.56 70 INFO:  --> End Connection:/127.0.0.1:49782
+2016.03.21 00.00.56 71 INFO:  --> New Connection:/127.0.0.1:49783
+2016.03.21 00.00.56 71 INFO:  --> File to be uploaded = a10.jpg
+2016.03.21 00.00.56 71 INFO:  --> File zu
+2016.03.21 00.00.56 71 INFO:  --> Req behandelt
+2016.03.21 00.00.56 71 INFO:  --> Res gesendet
+2016.03.21 00.00.56 71 INFO:  --> End Connection:/127.0.0.1:49783
+2016.03.21 00.00.56 72 INFO:  --> New Connection:/127.0.0.1:49784
+2016.03.21 00.00.56 72 INFO:  --> File to be uploaded = a10.tif
+2016.03.21 00.00.57 72 INFO:  --> File zu
+2016.03.21 00.00.57 72 INFO:  --> Req behandelt
+2016.03.21 00.00.57 72 INFO:  --> Res gesendet
+2016.03.21 00.00.57 72 INFO:  --> End Connection:/127.0.0.1:49784
+2016.03.21 00.00.57 73 INFO:  --> New Connection:/127.0.0.1:49785
+2016.03.21 00.00.57 73 INFO:  --> File to be uploaded = a2.jpg
+2016.03.21 00.00.57 73 INFO:  --> File zu
+2016.03.21 00.00.57 73 INFO:  --> Req behandelt
+2016.03.21 00.00.57 73 INFO:  --> Res gesendet
+2016.03.21 00.00.57 73 INFO:  --> End Connection:/127.0.0.1:49785
+2016.03.21 00.00.57 74 INFO:  --> New Connection:/127.0.0.1:49786
+2016.03.21 00.00.57 74 INFO:  --> File to be uploaded = a2.tif
+2016.03.21 00.00.58 74 INFO:  --> File zu
+2016.03.21 00.00.58 74 INFO:  --> Req behandelt
+2016.03.21 00.00.58 74 INFO:  --> Res gesendet
+2016.03.21 00.00.58 74 INFO:  --> End Connection:/127.0.0.1:49786
+2016.03.21 00.01.21 75 INFO:  --> New Connection:/127.0.0.1:49793
+2016.03.21 00.01.21 75 INFO:  --> File to be uploaded = a.jpg
+2016.03.21 00.01.21 75 INFO:  --> File zu
+2016.03.21 00.01.21 75 INFO:  --> Req behandelt
+2016.03.21 00.01.21 75 INFO:  --> Res gesendet
+2016.03.21 00.01.21 75 INFO:  --> End Connection:/127.0.0.1:49793
+2016.03.21 00.01.21 76 INFO:  --> New Connection:/127.0.0.1:49794
+2016.03.21 00.01.21 76 INFO:  --> File to be uploaded = a.tif
+2016.03.21 00.01.22 76 INFO:  --> File zu
+2016.03.21 00.01.22 76 INFO:  --> Req behandelt
+2016.03.21 00.01.22 76 INFO:  --> Res gesendet
+2016.03.21 00.01.22 76 INFO:  --> End Connection:/127.0.0.1:49794
+2016.03.21 00.01.22 77 INFO:  --> New Connection:/127.0.0.1:49795
+2016.03.21 00.01.22 77 INFO:  --> File to be uploaded = a0.jpg
+2016.03.21 00.01.22 77 INFO:  --> File zu
+2016.03.21 00.01.22 77 INFO:  --> Req behandelt
+2016.03.21 00.01.22 77 INFO:  --> Res gesendet
+2016.03.21 00.01.22 77 INFO:  --> End Connection:/127.0.0.1:49795
+2016.03.21 00.01.22 78 INFO:  --> New Connection:/127.0.0.1:49796
+2016.03.21 00.01.22 78 INFO:  --> File to be uploaded = a0.tif
+2016.03.21 00.01.23 78 INFO:  --> File zu
+2016.03.21 00.01.23 78 INFO:  --> Req behandelt
+2016.03.21 00.01.23 78 INFO:  --> Res gesendet
+2016.03.21 00.01.23 78 INFO:  --> End Connection:/127.0.0.1:49796
+2016.03.21 00.01.23 79 INFO:  --> New Connection:/127.0.0.1:49797
+2016.03.21 00.01.23 79 INFO:  --> File to be uploaded = a00.jpg
+2016.03.21 00.01.23 79 INFO:  --> File zu
+2016.03.21 00.01.23 79 INFO:  --> Req behandelt
+2016.03.21 00.01.23 79 INFO:  --> Res gesendet
+2016.03.21 00.01.23 79 INFO:  --> End Connection:/127.0.0.1:49797
+2016.03.21 00.01.23 80 INFO:  --> New Connection:/127.0.0.1:49798
+2016.03.21 00.01.23 80 INFO:  --> File to be uploaded = a00.tif
+2016.03.21 00.01.24 80 INFO:  --> File zu
+2016.03.21 00.01.24 80 INFO:  --> Req behandelt
+2016.03.21 00.01.24 80 INFO:  --> Res gesendet
+2016.03.21 00.01.24 80 INFO:  --> End Connection:/127.0.0.1:49798
+2016.03.21 00.01.24 81 INFO:  --> New Connection:/127.0.0.1:49799
+2016.03.21 00.01.24 81 INFO:  --> File to be uploaded = a000.jpg
+2016.03.21 00.01.24 81 INFO:  --> File zu
+2016.03.21 00.01.24 81 INFO:  --> Req behandelt
+2016.03.21 00.01.24 81 INFO:  --> Res gesendet
+2016.03.21 00.01.24 81 INFO:  --> End Connection:/127.0.0.1:49799
+2016.03.21 00.01.24 82 INFO:  --> New Connection:/127.0.0.1:49800
+2016.03.21 00.01.24 82 INFO:  --> File to be uploaded = a000.tif
+2016.03.21 00.01.24 82 INFO:  --> File zu
+2016.03.21 00.01.24 82 INFO:  --> Req behandelt
+2016.03.21 00.01.24 82 INFO:  --> Res gesendet
+2016.03.21 00.01.24 82 INFO:  --> End Connection:/127.0.0.1:49800
+2016.03.21 00.01.24 83 INFO:  --> New Connection:/127.0.0.1:49801
+2016.03.21 00.01.24 83 INFO:  --> File to be uploaded = a0000.jpg
+2016.03.21 00.01.25 83 INFO:  --> File zu
+2016.03.21 00.01.25 83 INFO:  --> Req behandelt
+2016.03.21 00.01.25 83 INFO:  --> Res gesendet
+2016.03.21 00.01.25 83 INFO:  --> End Connection:/127.0.0.1:49801
+2016.03.21 00.01.25 84 INFO:  --> New Connection:/127.0.0.1:49802
+2016.03.21 00.01.25 84 INFO:  --> File to be uploaded = a0000.tif
+2016.03.21 00.01.25 84 INFO:  --> File zu
+2016.03.21 00.01.25 84 INFO:  --> Req behandelt
+2016.03.21 00.01.25 84 INFO:  --> Res gesendet
+2016.03.21 00.01.25 84 INFO:  --> End Connection:/127.0.0.1:49802
+2016.03.21 00.01.25 85 INFO:  --> New Connection:/127.0.0.1:49803
+2016.03.21 00.01.25 85 INFO:  --> File to be uploaded = a001.jpg
+2016.03.21 00.01.26 85 INFO:  --> File zu
+2016.03.21 00.01.26 85 INFO:  --> Req behandelt
+2016.03.21 00.01.26 85 INFO:  --> Res gesendet
+2016.03.21 00.01.26 85 INFO:  --> End Connection:/127.0.0.1:49803
+2016.03.21 00.01.26 86 INFO:  --> New Connection:/127.0.0.1:49804
+2016.03.21 00.01.26 86 INFO:  --> File to be uploaded = a001.tif
+2016.03.21 00.01.26 86 INFO:  --> File zu
+2016.03.21 00.01.26 86 INFO:  --> Req behandelt
+2016.03.21 00.01.26 86 INFO:  --> Res gesendet
+2016.03.21 00.01.26 86 INFO:  --> End Connection:/127.0.0.1:49804
+2016.03.21 00.01.26 87 INFO:  --> New Connection:/127.0.0.1:49805
+2016.03.21 00.01.26 87 INFO:  --> File to be uploaded = a01.jpg
+2016.03.21 00.01.27 87 INFO:  --> File zu
+2016.03.21 00.01.27 87 INFO:  --> Req behandelt
+2016.03.21 00.01.27 87 INFO:  --> Res gesendet
+2016.03.21 00.01.27 87 INFO:  --> End Connection:/127.0.0.1:49805
+2016.03.21 00.01.27 88 INFO:  --> New Connection:/127.0.0.1:49806
+2016.03.21 00.01.27 88 INFO:  --> File to be uploaded = a01.tif
+2016.03.21 00.01.27 88 INFO:  --> File zu
+2016.03.21 00.01.27 88 INFO:  --> Req behandelt
+2016.03.21 00.01.27 88 INFO:  --> Res gesendet
+2016.03.21 00.01.27 88 INFO:  --> End Connection:/127.0.0.1:49806
+2016.03.21 00.01.27 89 INFO:  --> New Connection:/127.0.0.1:49807
+2016.03.21 00.01.27 89 INFO:  --> File to be uploaded = a010.jpg
+2016.03.21 00.01.27 89 INFO:  --> File zu
+2016.03.21 00.01.27 89 INFO:  --> Req behandelt
+2016.03.21 00.01.27 89 INFO:  --> Res gesendet
+2016.03.21 00.01.27 89 INFO:  --> End Connection:/127.0.0.1:49807
+2016.03.21 00.01.27 90 INFO:  --> New Connection:/127.0.0.1:49808
+2016.03.21 00.01.27 90 INFO:  --> File to be uploaded = a010.tif
+2016.03.21 00.01.28 90 INFO:  --> File zu
+2016.03.21 00.01.28 90 INFO:  --> Req behandelt
+2016.03.21 00.01.28 90 INFO:  --> Res gesendet
+2016.03.21 00.01.28 90 INFO:  --> End Connection:/127.0.0.1:49808
+2016.03.21 00.01.28 91 INFO:  --> New Connection:/127.0.0.1:49809
+2016.03.21 00.01.28 91 INFO:  --> File to be uploaded = a02.jpg
+2016.03.21 00.01.28 91 INFO:  --> File zu
+2016.03.21 00.01.28 91 INFO:  --> Req behandelt
+2016.03.21 00.01.28 91 INFO:  --> Res gesendet
+2016.03.21 00.01.28 91 INFO:  --> End Connection:/127.0.0.1:49809
+2016.03.21 00.01.28 92 INFO:  --> New Connection:/127.0.0.1:49810
+2016.03.21 00.01.28 92 INFO:  --> File to be uploaded = a02.tif
+2016.03.21 00.01.29 92 INFO:  --> File zu
+2016.03.21 00.01.29 92 INFO:  --> Req behandelt
+2016.03.21 00.01.29 92 INFO:  --> Res gesendet
+2016.03.21 00.01.29 92 INFO:  --> End Connection:/127.0.0.1:49810
+2016.03.21 00.01.29 93 INFO:  --> New Connection:/127.0.0.1:49811
+2016.03.21 00.01.29 93 INFO:  --> File to be uploaded = a1.jpg
+2016.03.21 00.01.29 93 INFO:  --> File zu
+2016.03.21 00.01.29 93 INFO:  --> Req behandelt
+2016.03.21 00.01.29 93 INFO:  --> Res gesendet
+2016.03.21 00.01.29 93 INFO:  --> End Connection:/127.0.0.1:49811
+2016.03.21 00.01.29 94 INFO:  --> New Connection:/127.0.0.1:49812
+2016.03.21 00.01.29 94 INFO:  --> File to be uploaded = a1.tif
+2016.03.21 00.01.30 94 INFO:  --> File zu
+2016.03.21 00.01.30 94 INFO:  --> Req behandelt
+2016.03.21 00.01.30 94 INFO:  --> Res gesendet
+2016.03.21 00.01.30 94 INFO:  --> End Connection:/127.0.0.1:49812
+2016.03.21 00.01.30 95 INFO:  --> New Connection:/127.0.0.1:49813
+2016.03.21 00.01.30 95 INFO:  --> File to be uploaded = a10.jpg
+2016.03.21 00.01.30 95 INFO:  --> File zu
+2016.03.21 00.01.30 95 INFO:  --> Req behandelt
+2016.03.21 00.01.30 95 INFO:  --> Res gesendet
+2016.03.21 00.01.30 95 INFO:  --> End Connection:/127.0.0.1:49813
+2016.03.21 00.01.30 96 INFO:  --> New Connection:/127.0.0.1:49814
+2016.03.21 00.01.30 96 INFO:  --> File to be uploaded = a10.tif
+2016.03.21 00.01.31 96 INFO:  --> File zu
+2016.03.21 00.01.31 96 INFO:  --> Req behandelt
+2016.03.21 00.01.31 96 INFO:  --> Res gesendet
+2016.03.21 00.01.31 96 INFO:  --> End Connection:/127.0.0.1:49814
+2016.03.21 00.01.31 97 INFO:  --> New Connection:/127.0.0.1:49815
+2016.03.21 00.01.31 97 INFO:  --> File to be uploaded = a100.jpg
+2016.03.21 00.01.31 97 INFO:  --> File zu
+2016.03.21 00.01.31 97 INFO:  --> Req behandelt
+2016.03.21 00.01.31 97 INFO:  --> Res gesendet
+2016.03.21 00.01.31 97 INFO:  --> End Connection:/127.0.0.1:49815
+2016.03.21 00.01.31 98 INFO:  --> New Connection:/127.0.0.1:49816
+2016.03.21 00.01.31 98 INFO:  --> File to be uploaded = a100.tif
+2016.03.21 00.01.32 98 INFO:  --> File zu
+2016.03.21 00.01.32 98 INFO:  --> Req behandelt
+2016.03.21 00.01.32 98 INFO:  --> Res gesendet
+2016.03.21 00.01.32 98 INFO:  --> End Connection:/127.0.0.1:49816
+2016.03.21 00.01.32 99 INFO:  --> New Connection:/127.0.0.1:49817
+2016.03.21 00.01.32 99 INFO:  --> File to be uploaded = a11.jpg
+2016.03.21 00.01.32 99 INFO:  --> File zu
+2016.03.21 00.01.32 99 INFO:  --> Req behandelt
+2016.03.21 00.01.32 99 INFO:  --> Res gesendet
+2016.03.21 00.01.32 99 INFO:  --> End Connection:/127.0.0.1:49817
+2016.03.21 00.01.32 100 INFO:  --> New Connection:/127.0.0.1:49818
+2016.03.21 00.01.32 100 INFO:  --> File to be uploaded = a11.tif
+2016.03.21 00.01.32 100 INFO:  --> File zu
+2016.03.21 00.01.32 100 INFO:  --> Req behandelt
+2016.03.21 00.01.32 100 INFO:  --> Res gesendet
+2016.03.21 00.01.32 100 INFO:  --> End Connection:/127.0.0.1:49818
+2016.03.21 00.01.32 101 INFO:  --> New Connection:/127.0.0.1:49819
+2016.03.21 00.01.32 101 INFO:  --> File to be uploaded = a2.jpg
+2016.03.21 00.01.33 101 INFO:  --> File zu
+2016.03.21 00.01.33 101 INFO:  --> Req behandelt
+2016.03.21 00.01.33 101 INFO:  --> Res gesendet
+2016.03.21 00.01.33 101 INFO:  --> End Connection:/127.0.0.1:49819
+2016.03.21 00.01.33 102 INFO:  --> New Connection:/127.0.0.1:49820
+2016.03.21 00.01.33 102 INFO:  --> File to be uploaded = a2.tif
+2016.03.21 00.01.33 102 INFO:  --> File zu
+2016.03.21 00.01.33 102 INFO:  --> Req behandelt
+2016.03.21 00.01.33 102 INFO:  --> Res gesendet
+2016.03.21 00.01.33 102 INFO:  --> End Connection:/127.0.0.1:49820
+2016.03.21 00.01.33 103 INFO:  --> New Connection:/127.0.0.1:49821
+2016.03.21 00.01.33 103 INFO:  --> File to be uploaded = a20.jpg
+2016.03.21 00.01.33 103 INFO:  --> File zu
+2016.03.21 00.01.33 103 INFO:  --> Req behandelt
+2016.03.21 00.01.33 103 INFO:  --> Res gesendet
+2016.03.21 00.01.33 103 INFO:  --> End Connection:/127.0.0.1:49821
+2016.03.21 00.01.33 104 INFO:  --> New Connection:/127.0.0.1:49822
+2016.03.21 00.01.33 104 INFO:  --> File to be uploaded = a20.tif
+2016.03.21 00.01.34 104 INFO:  --> File zu
+2016.03.21 00.01.34 104 INFO:  --> Req behandelt
+2016.03.21 00.01.34 104 INFO:  --> Res gesendet
+2016.03.21 00.01.34 104 INFO:  --> End Connection:/127.0.0.1:49822
+2016.03.21 00.01.34 105 INFO:  --> New Connection:/127.0.0.1:49823
+2016.03.21 00.01.34 105 INFO:  --> File to be uploaded = a3.jpg
+2016.03.21 00.01.34 105 INFO:  --> File zu
+2016.03.21 00.01.34 105 INFO:  --> Req behandelt
+2016.03.21 00.01.34 105 INFO:  --> Res gesendet
+2016.03.21 00.01.34 105 INFO:  --> End Connection:/127.0.0.1:49823
+2016.03.21 00.01.34 106 INFO:  --> New Connection:/127.0.0.1:49824
+2016.03.21 00.01.34 106 INFO:  --> File to be uploaded = a3.tif
+2016.03.21 00.01.35 106 INFO:  --> File zu
+2016.03.21 00.01.35 106 INFO:  --> Req behandelt
+2016.03.21 00.01.35 106 INFO:  --> Res gesendet
+2016.03.21 00.01.35 106 INFO:  --> End Connection:/127.0.0.1:49824
+2016.03.21 00.01.42 107 INFO:  --> New Connection:/127.0.0.1:49826
+2016.03.21 00.01.42 107 INFO:  --> File to be uploaded = a.jpg
+2016.03.21 00.01.42 107 INFO:  --> File zu
+2016.03.21 00.01.42 107 INFO:  --> Req behandelt
+2016.03.21 00.01.42 107 INFO:  --> Res gesendet
+2016.03.21 00.01.42 107 INFO:  --> End Connection:/127.0.0.1:49826
+2016.03.21 00.01.42 108 INFO:  --> New Connection:/127.0.0.1:49827
+2016.03.21 00.01.42 108 INFO:  --> File to be uploaded = a.tif
+2016.03.21 00.01.43 108 INFO:  --> File zu
+2016.03.21 00.01.43 108 INFO:  --> Req behandelt
+2016.03.21 00.01.43 108 INFO:  --> Res gesendet
+2016.03.21 00.01.43 108 INFO:  --> End Connection:/127.0.0.1:49827
+2016.03.21 00.01.43 109 INFO:  --> New Connection:/127.0.0.1:49828
+2016.03.21 00.01.43 109 INFO:  --> File to be uploaded = a0.jpg
+2016.03.21 00.01.43 109 INFO:  --> File zu
+2016.03.21 00.01.43 109 INFO:  --> Req behandelt
+2016.03.21 00.01.43 109 INFO:  --> Res gesendet
+2016.03.21 00.01.43 109 INFO:  --> End Connection:/127.0.0.1:49828
+2016.03.21 00.01.43 110 INFO:  --> New Connection:/127.0.0.1:49829
+2016.03.21 00.01.43 110 INFO:  --> File to be uploaded = a0.tif
+2016.03.21 00.01.44 110 INFO:  --> File zu
+2016.03.21 00.01.44 110 INFO:  --> Req behandelt
+2016.03.21 00.01.44 110 INFO:  --> Res gesendet
+2016.03.21 00.01.44 110 INFO:  --> End Connection:/127.0.0.1:49829
+2016.03.21 00.01.44 111 INFO:  --> New Connection:/127.0.0.1:49830
+2016.03.21 00.01.44 111 INFO:  --> File to be uploaded = a00.jpg
+2016.03.21 00.01.44 111 INFO:  --> File zu
+2016.03.21 00.01.44 111 INFO:  --> Req behandelt
+2016.03.21 00.01.44 111 INFO:  --> Res gesendet
+2016.03.21 00.01.44 111 INFO:  --> End Connection:/127.0.0.1:49830
+2016.03.21 00.01.44 112 INFO:  --> New Connection:/127.0.0.1:49831
+2016.03.21 00.01.44 112 INFO:  --> File to be uploaded = a00.tif
+2016.03.21 00.01.45 112 INFO:  --> File zu
+2016.03.21 00.01.45 112 INFO:  --> Req behandelt
+2016.03.21 00.01.45 112 INFO:  --> Res gesendet
+2016.03.21 00.01.45 112 INFO:  --> End Connection:/127.0.0.1:49831
+2016.03.21 00.01.45 113 INFO:  --> New Connection:/127.0.0.1:49832
+2016.03.21 00.01.45 113 INFO:  --> File to be uploaded = a000.jpg
+2016.03.21 00.01.45 113 INFO:  --> File zu
+2016.03.21 00.01.45 113 INFO:  --> Req behandelt
+2016.03.21 00.01.45 113 INFO:  --> Res gesendet
+2016.03.21 00.01.45 113 INFO:  --> End Connection:/127.0.0.1:49832
+2016.03.21 00.01.45 14 INFO:  --> New Connection:/127.0.0.1:49833
+2016.03.21 00.01.45 14 INFO:  --> File to be uploaded = a000.tif
+2016.03.21 00.01.46 14 INFO:  --> File zu
+2016.03.21 00.01.46 14 INFO:  --> Req behandelt
+2016.03.21 00.01.46 14 INFO:  --> Res gesendet
+2016.03.21 00.01.46 14 INFO:  --> End Connection:/127.0.0.1:49833
+2016.03.21 00.01.46 15 INFO:  --> New Connection:/127.0.0.1:49834
+2016.03.21 00.01.46 15 INFO:  --> File to be uploaded = a0000.jpg
+2016.03.21 00.01.46 15 INFO:  --> File zu
+2016.03.21 00.01.46 15 INFO:  --> Req behandelt
+2016.03.21 00.01.46 15 INFO:  --> Res gesendet
+2016.03.21 00.01.46 15 INFO:  --> End Connection:/127.0.0.1:49834
+2016.03.21 00.01.46 16 INFO:  --> New Connection:/127.0.0.1:49835
+2016.03.21 00.01.46 16 INFO:  --> File to be uploaded = a0000.tif
+2016.03.21 00.01.47 16 INFO:  --> File zu
+2016.03.21 00.01.47 16 INFO:  --> Req behandelt
+2016.03.21 00.01.47 16 INFO:  --> Res gesendet
+2016.03.21 00.01.47 16 INFO:  --> End Connection:/127.0.0.1:49835
+2016.03.21 00.01.47 17 INFO:  --> New Connection:/127.0.0.1:49836
+2016.03.21 00.01.47 17 INFO:  --> File to be uploaded = a00000.jpg
+2016.03.21 00.01.47 17 INFO:  --> File zu
+2016.03.21 00.01.47 17 INFO:  --> Req behandelt
+2016.03.21 00.01.47 17 INFO:  --> Res gesendet
+2016.03.21 00.01.47 17 INFO:  --> End Connection:/127.0.0.1:49836
+2016.03.21 00.01.47 18 INFO:  --> New Connection:/127.0.0.1:49837
+2016.03.21 00.01.47 18 INFO:  --> File to be uploaded = a00000.tif
+2016.03.21 00.01.48 18 INFO:  --> File zu
+2016.03.21 00.01.48 18 INFO:  --> Req behandelt
+2016.03.21 00.01.48 18 INFO:  --> Res gesendet
+2016.03.21 00.01.48 18 INFO:  --> End Connection:/127.0.0.1:49837
+2016.03.21 00.01.48 19 INFO:  --> New Connection:/127.0.0.1:49838
+2016.03.21 00.01.48 19 INFO:  --> File to be uploaded = a0001.jpg
+2016.03.21 00.01.48 19 INFO:  --> File zu
+2016.03.21 00.01.48 19 INFO:  --> Req behandelt
+2016.03.21 00.01.48 19 INFO:  --> Res gesendet
+2016.03.21 00.01.48 19 INFO:  --> End Connection:/127.0.0.1:49838
+2016.03.21 00.01.48 20 INFO:  --> New Connection:/127.0.0.1:49839
+2016.03.21 00.01.48 20 INFO:  --> File to be uploaded = a0001.tif
+2016.03.21 00.01.49 20 INFO:  --> File zu
+2016.03.21 00.01.49 20 INFO:  --> Req behandelt
+2016.03.21 00.01.49 20 INFO:  --> Res gesendet
+2016.03.21 00.01.49 20 INFO:  --> End Connection:/127.0.0.1:49839
+2016.03.21 00.01.49 21 INFO:  --> New Connection:/127.0.0.1:49840
+2016.03.21 00.01.49 21 INFO:  --> File to be uploaded = a001.jpg
+2016.03.21 00.01.49 21 INFO:  --> File zu
+2016.03.21 00.01.49 21 INFO:  --> Req behandelt
+2016.03.21 00.01.49 21 INFO:  --> Res gesendet
+2016.03.21 00.01.49 21 INFO:  --> End Connection:/127.0.0.1:49840
+2016.03.21 00.01.49 22 INFO:  --> New Connection:/127.0.0.1:49841
+2016.03.21 00.01.49 22 INFO:  --> File to be uploaded = a001.tif
+2016.03.21 00.01.50 22 INFO:  --> File zu
+2016.03.21 00.01.50 22 INFO:  --> Req behandelt
+2016.03.21 00.01.50 22 INFO:  --> Res gesendet
+2016.03.21 00.01.50 22 INFO:  --> End Connection:/127.0.0.1:49841
+2016.03.21 00.01.50 23 INFO:  --> New Connection:/127.0.0.1:49843
+2016.03.21 00.01.50 23 INFO:  --> File to be uploaded = a0010.jpg
+2016.03.21 00.01.50 23 INFO:  --> File zu
+2016.03.21 00.01.50 23 INFO:  --> Req behandelt
+2016.03.21 00.01.50 23 INFO:  --> Res gesendet
+2016.03.21 00.01.50 23 INFO:  --> End Connection:/127.0.0.1:49843
+2016.03.21 00.01.50 24 INFO:  --> New Connection:/127.0.0.1:49844
+2016.03.21 00.01.50 24 INFO:  --> File to be uploaded = a0010.tif
+2016.03.21 00.01.51 24 INFO:  --> File zu
+2016.03.21 00.01.51 24 INFO:  --> Req behandelt
+2016.03.21 00.01.51 24 INFO:  --> Res gesendet
+2016.03.21 00.01.51 24 INFO:  --> End Connection:/127.0.0.1:49844
+2016.03.21 00.01.51 25 INFO:  --> New Connection:/127.0.0.1:49845
+2016.03.21 00.01.51 25 INFO:  --> File to be uploaded = a002.jpg
+2016.03.21 00.01.51 25 INFO:  --> File zu
+2016.03.21 00.01.51 25 INFO:  --> Req behandelt
+2016.03.21 00.01.51 25 INFO:  --> Res gesendet
+2016.03.21 00.01.51 25 INFO:  --> End Connection:/127.0.0.1:49845
+2016.03.21 00.01.51 26 INFO:  --> New Connection:/127.0.0.1:49846
+2016.03.21 00.01.51 26 INFO:  --> File to be uploaded = a002.tif
+2016.03.21 00.01.51 26 INFO:  --> File zu
+2016.03.21 00.01.51 26 INFO:  --> Req behandelt
+2016.03.21 00.01.51 26 INFO:  --> Res gesendet
+2016.03.21 00.01.51 26 INFO:  --> End Connection:/127.0.0.1:49846
+2016.03.21 00.01.51 27 INFO:  --> New Connection:/127.0.0.1:49848
+2016.03.21 00.01.51 27 INFO:  --> File to be uploaded = a01.jpg
+2016.03.21 00.01.51 27 INFO:  --> File zu
+2016.03.21 00.01.51 27 INFO:  --> Req behandelt
+2016.03.21 00.01.51 27 INFO:  --> Res gesendet
+2016.03.21 00.01.51 27 INFO:  --> End Connection:/127.0.0.1:49848
+2016.03.21 00.01.51 28 INFO:  --> New Connection:/127.0.0.1:49849
+2016.03.21 00.01.51 28 INFO:  --> File to be uploaded = a01.tif
+2016.03.21 00.01.52 28 INFO:  --> File zu
+2016.03.21 00.01.52 28 INFO:  --> Req behandelt
+2016.03.21 00.01.52 28 INFO:  --> Res gesendet
+2016.03.21 00.01.52 28 INFO:  --> End Connection:/127.0.0.1:49849
+2016.03.21 00.01.52 29 INFO:  --> New Connection:/127.0.0.1:49852
+2016.03.21 00.01.52 29 INFO:  --> File to be uploaded = a010.jpg
+2016.03.21 00.01.52 29 INFO:  --> File zu
+2016.03.21 00.01.52 29 INFO:  --> Req behandelt
+2016.03.21 00.01.52 29 INFO:  --> Res gesendet
+2016.03.21 00.01.52 29 INFO:  --> End Connection:/127.0.0.1:49852
+2016.03.21 00.01.52 30 INFO:  --> New Connection:/127.0.0.1:49853
+2016.03.21 00.01.52 30 INFO:  --> File to be uploaded = a010.tif
+2016.03.21 00.01.53 30 INFO:  --> File zu
+2016.03.21 00.01.53 30 INFO:  --> Req behandelt
+2016.03.21 00.01.53 30 INFO:  --> Res gesendet
+2016.03.21 00.01.53 30 INFO:  --> End Connection:/127.0.0.1:49853
+2016.03.21 00.01.53 31 INFO:  --> New Connection:/127.0.0.1:49854
+2016.03.21 00.01.53 31 INFO:  --> File to be uploaded = a0100.jpg
+2016.03.21 00.01.53 31 INFO:  --> File zu
+2016.03.21 00.01.53 31 INFO:  --> Req behandelt
+2016.03.21 00.01.53 31 INFO:  --> Res gesendet
+2016.03.21 00.01.53 31 INFO:  --> End Connection:/127.0.0.1:49854
+2016.03.21 00.01.53 32 INFO:  --> New Connection:/127.0.0.1:49855
+2016.03.21 00.01.53 32 INFO:  --> File to be uploaded = a0100.tif
+2016.03.21 00.01.54 32 INFO:  --> File zu
+2016.03.21 00.01.54 32 INFO:  --> Req behandelt
+2016.03.21 00.01.54 32 INFO:  --> Res gesendet
+2016.03.21 00.01.54 32 INFO:  --> End Connection:/127.0.0.1:49855
+2016.03.21 00.01.54 33 INFO:  --> New Connection:/127.0.0.1:49856
+2016.03.21 00.01.54 33 INFO:  --> File to be uploaded = a011.jpg
+2016.03.21 00.01.54 33 INFO:  --> File zu
+2016.03.21 00.01.54 33 INFO:  --> Req behandelt
+2016.03.21 00.01.54 33 INFO:  --> Res gesendet
+2016.03.21 00.01.54 33 INFO:  --> End Connection:/127.0.0.1:49856
+2016.03.21 00.01.54 34 INFO:  --> New Connection:/127.0.0.1:49857
+2016.03.21 00.01.54 34 INFO:  --> File to be uploaded = a011.tif
+2016.03.21 00.01.55 34 INFO:  --> File zu
+2016.03.21 00.01.55 34 INFO:  --> Req behandelt
+2016.03.21 00.01.55 34 INFO:  --> Res gesendet
+2016.03.21 00.01.55 34 INFO:  --> End Connection:/127.0.0.1:49857
+2016.03.21 00.01.55 35 INFO:  --> New Connection:/127.0.0.1:49858
+2016.03.21 00.01.55 35 INFO:  --> File to be uploaded = a02.jpg
+2016.03.21 00.01.55 35 INFO:  --> File zu
+2016.03.21 00.01.55 35 INFO:  --> Req behandelt
+2016.03.21 00.01.55 35 INFO:  --> Res gesendet
+2016.03.21 00.01.55 35 INFO:  --> End Connection:/127.0.0.1:49858
+2016.03.21 00.01.55 36 INFO:  --> New Connection:/127.0.0.1:49859
+2016.03.21 00.01.55 36 INFO:  --> File to be uploaded = a02.tif
+2016.03.21 00.01.56 36 INFO:  --> File zu
+2016.03.21 00.01.56 36 INFO:  --> Req behandelt
+2016.03.21 00.01.56 36 INFO:  --> Res gesendet
+2016.03.21 00.01.56 36 INFO:  --> End Connection:/127.0.0.1:49859
+2016.03.21 00.01.56 37 INFO:  --> New Connection:/127.0.0.1:49860
+2016.03.21 00.01.56 37 INFO:  --> File to be uploaded = a020.jpg
+2016.03.21 00.01.56 37 INFO:  --> File zu
+2016.03.21 00.01.56 37 INFO:  --> Req behandelt
+2016.03.21 00.01.56 37 INFO:  --> Res gesendet
+2016.03.21 00.01.56 37 INFO:  --> End Connection:/127.0.0.1:49860
+2016.03.21 00.01.56 38 INFO:  --> New Connection:/127.0.0.1:49861
+2016.03.21 00.01.56 38 INFO:  --> File to be uploaded = a020.tif
+2016.03.21 00.01.57 38 INFO:  --> File zu
+2016.03.21 00.01.57 38 INFO:  --> Req behandelt
+2016.03.21 00.01.57 38 INFO:  --> Res gesendet
+2016.03.21 00.01.57 38 INFO:  --> End Connection:/127.0.0.1:49861
+2016.03.21 00.01.57 39 INFO:  --> New Connection:/127.0.0.1:49862
+2016.03.21 00.01.57 39 INFO:  --> File to be uploaded = a03.jpg
+2016.03.21 00.01.57 39 INFO:  --> File zu
+2016.03.21 00.01.57 39 INFO:  --> Req behandelt
+2016.03.21 00.01.57 39 INFO:  --> Res gesendet
+2016.03.21 00.01.57 39 INFO:  --> End Connection:/127.0.0.1:49862
+2016.03.21 00.01.57 40 INFO:  --> New Connection:/127.0.0.1:49863
+2016.03.21 00.01.57 40 INFO:  --> File to be uploaded = a03.tif
+2016.03.21 00.01.58 40 INFO:  --> File zu
+2016.03.21 00.01.58 40 INFO:  --> Req behandelt
+2016.03.21 00.01.58 40 INFO:  --> Res gesendet
+2016.03.21 00.01.58 40 INFO:  --> End Connection:/127.0.0.1:49863
+2016.03.21 00.01.58 41 INFO:  --> New Connection:/127.0.0.1:49864
+2016.03.21 00.01.58 41 INFO:  --> File to be uploaded = a1.jpg
+2016.03.21 00.01.58 41 INFO:  --> File zu
+2016.03.21 00.01.58 41 INFO:  --> Req behandelt
+2016.03.21 00.01.58 41 INFO:  --> Res gesendet
+2016.03.21 00.01.58 41 INFO:  --> End Connection:/127.0.0.1:49864
+2016.03.21 00.01.58 42 INFO:  --> New Connection:/127.0.0.1:49865
+2016.03.21 00.01.58 42 INFO:  --> File to be uploaded = a1.tif
+2016.03.21 00.01.58 42 INFO:  --> File zu
+2016.03.21 00.01.58 42 INFO:  --> Req behandelt
+2016.03.21 00.01.58 42 INFO:  --> Res gesendet
+2016.03.21 00.01.58 42 INFO:  --> End Connection:/127.0.0.1:49865
+2016.03.21 00.01.58 43 INFO:  --> New Connection:/127.0.0.1:49866
+2016.03.21 00.01.58 43 INFO:  --> File to be uploaded = a10.jpg
+2016.03.21 00.01.59 43 INFO:  --> File zu
+2016.03.21 00.01.59 43 INFO:  --> Req behandelt
+2016.03.21 00.01.59 43 INFO:  --> Res gesendet
+2016.03.21 00.01.59 43 INFO:  --> End Connection:/127.0.0.1:49866
+2016.03.21 00.01.59 44 INFO:  --> New Connection:/127.0.0.1:49867
+2016.03.21 00.01.59 44 INFO:  --> File to be uploaded = a10.tif
+2016.03.21 00.01.59 44 INFO:  --> File zu
+2016.03.21 00.01.59 44 INFO:  --> Req behandelt
+2016.03.21 00.01.59 44 INFO:  --> Res gesendet
+2016.03.21 00.01.59 44 INFO:  --> End Connection:/127.0.0.1:49867
+2016.03.21 00.01.59 45 INFO:  --> New Connection:/127.0.0.1:49868
+2016.03.21 00.01.59 45 INFO:  --> File to be uploaded = a100.jpg
+2016.03.21 00.01.59 45 INFO:  --> File zu
+2016.03.21 00.01.59 45 INFO:  --> Req behandelt
+2016.03.21 00.01.59 45 INFO:  --> Res gesendet
+2016.03.21 00.01.59 45 INFO:  --> End Connection:/127.0.0.1:49868
+2016.03.21 00.01.59 46 INFO:  --> New Connection:/127.0.0.1:49869
+2016.03.21 00.01.59 46 INFO:  --> File to be uploaded = a100.tif
+2016.03.21 00.02.00 46 INFO:  --> File zu
+2016.03.21 00.02.00 46 INFO:  --> Req behandelt
+2016.03.21 00.02.00 46 INFO:  --> Res gesendet
+2016.03.21 00.02.00 46 INFO:  --> End Connection:/127.0.0.1:49869
+2016.03.21 00.02.00 47 INFO:  --> New Connection:/127.0.0.1:49871
+2016.03.21 00.02.00 47 INFO:  --> File to be uploaded = a1000.jpg
+2016.03.21 00.02.00 47 INFO:  --> File zu
+2016.03.21 00.02.00 47 INFO:  --> Req behandelt
+2016.03.21 00.02.00 47 INFO:  --> Res gesendet
+2016.03.21 00.02.00 47 INFO:  --> End Connection:/127.0.0.1:49871
+2016.03.21 00.02.00 48 INFO:  --> New Connection:/127.0.0.1:49872
+2016.03.21 00.02.00 48 INFO:  --> File to be uploaded = a1000.tif
+2016.03.21 00.02.01 48 INFO:  --> File zu
+2016.03.21 00.02.01 48 INFO:  --> Req behandelt
+2016.03.21 00.02.01 48 INFO:  --> Res gesendet
+2016.03.21 00.02.01 48 INFO:  --> End Connection:/127.0.0.1:49872
+2016.03.21 00.02.01 49 INFO:  --> New Connection:/127.0.0.1:49873
+2016.03.21 00.02.01 49 INFO:  --> File to be uploaded = a101.jpg
+2016.03.21 00.02.01 49 INFO:  --> File zu
+2016.03.21 00.02.01 49 INFO:  --> Req behandelt
+2016.03.21 00.02.01 49 INFO:  --> Res gesendet
+2016.03.21 00.02.01 49 INFO:  --> End Connection:/127.0.0.1:49873
+2016.03.21 00.02.01 50 INFO:  --> New Connection:/127.0.0.1:49874
+2016.03.21 00.02.01 50 INFO:  --> File to be uploaded = a101.tif
+2016.03.21 00.02.02 50 INFO:  --> File zu
+2016.03.21 00.02.02 50 INFO:  --> Req behandelt
+2016.03.21 00.02.02 50 INFO:  --> Res gesendet
+2016.03.21 00.02.02 50 INFO:  --> End Connection:/127.0.0.1:49874
+2016.03.21 00.02.02 51 INFO:  --> New Connection:/127.0.0.1:49875
+2016.03.21 00.02.02 51 INFO:  --> File to be uploaded = a11.jpg
+2016.03.21 00.02.02 51 INFO:  --> File zu
+2016.03.21 00.02.02 51 INFO:  --> Req behandelt
+2016.03.21 00.02.02 51 INFO:  --> Res gesendet
+2016.03.21 00.02.02 51 INFO:  --> End Connection:/127.0.0.1:49875
+2016.03.21 00.02.02 52 INFO:  --> New Connection:/127.0.0.1:49876
+2016.03.21 00.02.02 52 INFO:  --> File to be uploaded = a11.tif
+2016.03.21 00.02.03 52 INFO:  --> File zu
+2016.03.21 00.02.03 52 INFO:  --> Req behandelt
+2016.03.21 00.02.03 52 INFO:  --> Res gesendet
+2016.03.21 00.02.03 52 INFO:  --> End Connection:/127.0.0.1:49876
+2016.03.21 00.02.03 53 INFO:  --> New Connection:/127.0.0.1:49877
+2016.03.21 00.02.03 53 INFO:  --> File to be uploaded = a110.jpg
+2016.03.21 00.02.03 53 INFO:  --> File zu
+2016.03.21 00.02.03 53 INFO:  --> Req behandelt
+2016.03.21 00.02.03 53 INFO:  --> Res gesendet
+2016.03.21 00.02.03 53 INFO:  --> End Connection:/127.0.0.1:49877
+2016.03.21 00.02.03 54 INFO:  --> New Connection:/127.0.0.1:49878
+2016.03.21 00.02.03 54 INFO:  --> File to be uploaded = a110.tif
+2016.03.21 00.02.04 54 INFO:  --> File zu
+2016.03.21 00.02.04 54 INFO:  --> Req behandelt
+2016.03.21 00.02.04 54 INFO:  --> Res gesendet
+2016.03.21 00.02.04 54 INFO:  --> End Connection:/127.0.0.1:49878
+2016.03.21 00.02.04 55 INFO:  --> New Connection:/127.0.0.1:49880
+2016.03.21 00.02.04 55 INFO:  --> File to be uploaded = a12.jpg
+2016.03.21 00.02.04 55 INFO:  --> File zu
+2016.03.21 00.02.04 55 INFO:  --> Req behandelt
+2016.03.21 00.02.04 55 INFO:  --> Res gesendet
+2016.03.21 00.02.04 55 INFO:  --> End Connection:/127.0.0.1:49880
+2016.03.21 00.02.04 56 INFO:  --> New Connection:/127.0.0.1:49881
+2016.03.21 00.02.04 56 INFO:  --> File to be uploaded = a12.tif
+2016.03.21 00.02.05 56 INFO:  --> File zu
+2016.03.21 00.02.05 56 INFO:  --> Req behandelt
+2016.03.21 00.02.05 56 INFO:  --> Res gesendet
+2016.03.21 00.02.05 56 INFO:  --> End Connection:/127.0.0.1:49881
+2016.03.21 00.02.05 57 INFO:  --> New Connection:/127.0.0.1:49882
+2016.03.21 00.02.05 57 INFO:  --> File to be uploaded = a2.jpg
+2016.03.21 00.02.05 57 INFO:  --> File zu
+2016.03.21 00.02.05 57 INFO:  --> Req behandelt
+2016.03.21 00.02.05 57 INFO:  --> Res gesendet
+2016.03.21 00.02.05 57 INFO:  --> End Connection:/127.0.0.1:49882
+2016.03.21 00.02.05 58 INFO:  --> New Connection:/127.0.0.1:49883
+2016.03.21 00.02.05 58 INFO:  --> File to be uploaded = a2.tif
+2016.03.21 00.02.06 58 INFO:  --> File zu
+2016.03.21 00.02.06 58 INFO:  --> Req behandelt
+2016.03.21 00.02.06 58 INFO:  --> Res gesendet
+2016.03.21 00.02.06 58 INFO:  --> End Connection:/127.0.0.1:49883
+2016.03.21 00.02.06 59 INFO:  --> New Connection:/127.0.0.1:49884
+2016.03.21 00.02.06 59 INFO:  --> File to be uploaded = a20.jpg
+2016.03.21 00.02.06 59 INFO:  --> File zu
+2016.03.21 00.02.06 59 INFO:  --> Req behandelt
+2016.03.21 00.02.06 59 INFO:  --> Res gesendet
+2016.03.21 00.02.06 59 INFO:  --> End Connection:/127.0.0.1:49884
+2016.03.21 00.02.06 60 INFO:  --> New Connection:/127.0.0.1:49885
+2016.03.21 00.02.06 60 INFO:  --> File to be uploaded = a20.tif
+2016.03.21 00.02.07 60 INFO:  --> File zu
+2016.03.21 00.02.07 60 INFO:  --> Req behandelt
+2016.03.21 00.02.07 60 INFO:  --> Res gesendet
+2016.03.21 00.02.07 60 INFO:  --> End Connection:/127.0.0.1:49885
+2016.03.21 00.02.07 61 INFO:  --> New Connection:/127.0.0.1:49886
+2016.03.21 00.02.07 61 INFO:  --> File to be uploaded = a200.jpg
+2016.03.21 00.02.07 61 INFO:  --> File zu
+2016.03.21 00.02.07 61 INFO:  --> Req behandelt
+2016.03.21 00.02.07 61 INFO:  --> Res gesendet
+2016.03.21 00.02.07 61 INFO:  --> End Connection:/127.0.0.1:49886
+2016.03.21 00.02.07 62 INFO:  --> New Connection:/127.0.0.1:49887
+2016.03.21 00.02.07 62 INFO:  --> File to be uploaded = a200.tif
+2016.03.21 00.02.08 62 INFO:  --> File zu
+2016.03.21 00.02.08 62 INFO:  --> Req behandelt
+2016.03.21 00.02.08 62 INFO:  --> Res gesendet
+2016.03.21 00.02.08 62 INFO:  --> End Connection:/127.0.0.1:49887
+2016.03.21 00.02.08 63 INFO:  --> New Connection:/127.0.0.1:49888
+2016.03.21 00.02.08 63 INFO:  --> File to be uploaded = a21.jpg
+2016.03.21 00.02.08 63 INFO:  --> File zu
+2016.03.21 00.02.08 63 INFO:  --> Req behandelt
+2016.03.21 00.02.08 63 INFO:  --> Res gesendet
+2016.03.21 00.02.08 63 INFO:  --> End Connection:/127.0.0.1:49888
+2016.03.21 00.02.08 64 INFO:  --> New Connection:/127.0.0.1:49889
+2016.03.21 00.02.08 64 INFO:  --> File to be uploaded = a21.tif
+2016.03.21 00.02.09 64 INFO:  --> File zu
+2016.03.21 00.02.09 64 INFO:  --> Req behandelt
+2016.03.21 00.02.09 64 INFO:  --> Res gesendet
+2016.03.21 00.02.09 64 INFO:  --> End Connection:/127.0.0.1:49889
+2016.03.21 00.02.09 65 INFO:  --> New Connection:/127.0.0.1:49890
+2016.03.21 00.02.09 65 INFO:  --> File to be uploaded = a3.jpg
+2016.03.21 00.02.09 65 INFO:  --> File zu
+2016.03.21 00.02.09 65 INFO:  --> Req behandelt
+2016.03.21 00.02.09 65 INFO:  --> Res gesendet
+2016.03.21 00.02.09 65 INFO:  --> End Connection:/127.0.0.1:49890
+2016.03.21 00.02.09 66 INFO:  --> New Connection:/127.0.0.1:49891
+2016.03.21 00.02.09 66 INFO:  --> File to be uploaded = a3.tif
+2016.03.21 00.02.10 66 INFO:  --> File zu
+2016.03.21 00.02.10 66 INFO:  --> Req behandelt
+2016.03.21 00.02.10 66 INFO:  --> Res gesendet
+2016.03.21 00.02.10 66 INFO:  --> End Connection:/127.0.0.1:49891
+2016.03.21 00.02.10 67 INFO:  --> New Connection:/127.0.0.1:49892
+2016.03.21 00.02.10 67 INFO:  --> File to be uploaded = a30.jpg
+2016.03.21 00.02.10 67 INFO:  --> File zu
+2016.03.21 00.02.10 67 INFO:  --> Req behandelt
+2016.03.21 00.02.10 67 INFO:  --> Res gesendet
+2016.03.21 00.02.10 67 INFO:  --> End Connection:/127.0.0.1:49892
+2016.03.21 00.02.10 68 INFO:  --> New Connection:/127.0.0.1:49893
+2016.03.21 00.02.10 68 INFO:  --> File to be uploaded = a30.tif
+2016.03.21 00.02.11 68 INFO:  --> File zu
+2016.03.21 00.02.11 68 INFO:  --> Req behandelt
+2016.03.21 00.02.11 68 INFO:  --> Res gesendet
+2016.03.21 00.02.11 68 INFO:  --> End Connection:/127.0.0.1:49893
+2016.03.21 00.02.11 69 INFO:  --> New Connection:/127.0.0.1:49894
+2016.03.21 00.02.11 69 INFO:  --> File to be uploaded = a4.jpg
+2016.03.21 00.02.11 69 INFO:  --> File zu
+2016.03.21 00.02.11 69 INFO:  --> Req behandelt
+2016.03.21 00.02.11 69 INFO:  --> Res gesendet
+2016.03.21 00.02.11 69 INFO:  --> End Connection:/127.0.0.1:49894
+2016.03.21 00.02.11 70 INFO:  --> New Connection:/127.0.0.1:49895
+2016.03.21 00.02.11 70 INFO:  --> File to be uploaded = a4.tif
+2016.03.21 00.02.12 70 INFO:  --> File zu
+2016.03.21 00.02.12 70 INFO:  --> Req behandelt
+2016.03.21 00.02.12 70 INFO:  --> Res gesendet
+2016.03.21 00.02.12 70 INFO:  --> End Connection:/127.0.0.1:49895
+2016.03.21 00.02.39 71 INFO:  --> New Connection:/127.0.0.1:49897
+2016.03.21 00.02.39 71 INFO:  --> File to be uploaded = a.jpg
+2016.03.21 00.02.40 71 INFO:  --> File zu
+2016.03.21 00.02.40 71 INFO:  --> Req behandelt
+2016.03.21 00.02.40 71 INFO:  --> Res gesendet
+2016.03.21 00.02.40 71 INFO:  --> End Connection:/127.0.0.1:49897
+2016.03.21 00.02.40 72 INFO:  --> New Connection:/127.0.0.1:49898
+2016.03.21 00.02.40 72 INFO:  --> File to be uploaded = a.tif
+2016.03.21 00.02.40 72 INFO:  --> File zu
+2016.03.21 00.02.40 72 INFO:  --> Req behandelt
+2016.03.21 00.02.40 72 INFO:  --> Res gesendet
+2016.03.21 00.02.40 72 INFO:  --> End Connection:/127.0.0.1:49898
+2016.03.21 00.02.40 73 INFO:  --> New Connection:/127.0.0.1:49899
+2016.03.21 00.02.40 73 INFO:  --> File to be uploaded = a0.jpg
+2016.03.21 00.02.40 73 INFO:  --> File zu
+2016.03.21 00.02.40 73 INFO:  --> Req behandelt
+2016.03.21 00.02.40 73 INFO:  --> Res gesendet
+2016.03.21 00.02.40 73 INFO:  --> End Connection:/127.0.0.1:49899
+2016.03.21 00.02.40 74 INFO:  --> New Connection:/127.0.0.1:49900
+2016.03.21 00.02.40 74 INFO:  --> File to be uploaded = a0.tif
+2016.03.21 00.02.41 74 INFO:  --> File zu
+2016.03.21 00.02.41 74 INFO:  --> Req behandelt
+2016.03.21 00.02.41 74 INFO:  --> Res gesendet
+2016.03.21 00.02.41 74 INFO:  --> End Connection:/127.0.0.1:49900
+2016.03.21 00.02.41 75 INFO:  --> New Connection:/127.0.0.1:49901
+2016.03.21 00.02.41 75 INFO:  --> File to be uploaded = a00.jpg
+2016.03.21 00.02.41 75 INFO:  --> File zu
+2016.03.21 00.02.41 75 INFO:  --> Req behandelt
+2016.03.21 00.02.41 75 INFO:  --> Res gesendet
+2016.03.21 00.02.41 75 INFO:  --> End Connection:/127.0.0.1:49901
+2016.03.21 00.02.41 76 INFO:  --> New Connection:/127.0.0.1:49902
+2016.03.21 00.02.41 76 INFO:  --> File to be uploaded = a00.tif
+2016.03.21 00.02.42 76 INFO:  --> File zu
+2016.03.21 00.02.42 76 INFO:  --> Req behandelt
+2016.03.21 00.02.42 76 INFO:  --> Res gesendet
+2016.03.21 00.02.42 76 INFO:  --> End Connection:/127.0.0.1:49902
+2016.03.21 00.02.42 77 INFO:  --> New Connection:/127.0.0.1:49903
+2016.03.21 00.02.42 77 INFO:  --> File to be uploaded = a000.jpg
+2016.03.21 00.02.42 77 INFO:  --> File zu
+2016.03.21 00.02.42 77 INFO:  --> Req behandelt
+2016.03.21 00.02.42 77 INFO:  --> Res gesendet
+2016.03.21 00.02.42 77 INFO:  --> End Connection:/127.0.0.1:49903
+2016.03.21 00.02.42 78 INFO:  --> New Connection:/127.0.0.1:49904
+2016.03.21 00.02.42 78 INFO:  --> File to be uploaded = a000.tif
+2016.03.21 00.02.43 78 INFO:  --> File zu
+2016.03.21 00.02.43 78 INFO:  --> Req behandelt
+2016.03.21 00.02.43 78 INFO:  --> Res gesendet
+2016.03.21 00.02.43 78 INFO:  --> End Connection:/127.0.0.1:49904
+2016.03.21 00.02.43 79 INFO:  --> New Connection:/127.0.0.1:49906
+2016.03.21 00.02.43 79 INFO:  --> File to be uploaded = a0000.jpg
+2016.03.21 00.02.43 79 INFO:  --> File zu
+2016.03.21 00.02.43 79 INFO:  --> Req behandelt
+2016.03.21 00.02.43 79 INFO:  --> Res gesendet
+2016.03.21 00.02.43 79 INFO:  --> End Connection:/127.0.0.1:49906
+2016.03.21 00.02.43 80 INFO:  --> New Connection:/127.0.0.1:49907
+2016.03.21 00.02.43 80 INFO:  --> File to be uploaded = a0000.tif
+2016.03.21 00.02.44 80 INFO:  --> File zu
+2016.03.21 00.02.44 80 INFO:  --> Req behandelt
+2016.03.21 00.02.44 80 INFO:  --> Res gesendet
+2016.03.21 00.02.44 80 INFO:  --> End Connection:/127.0.0.1:49907
+2016.03.21 00.02.44 81 INFO:  --> New Connection:/127.0.0.1:49908
+2016.03.21 00.02.44 81 INFO:  --> File to be uploaded = a00000.jpg
+2016.03.21 00.02.44 81 INFO:  --> File zu
+2016.03.21 00.02.44 81 INFO:  --> Req behandelt
+2016.03.21 00.02.44 81 INFO:  --> Res gesendet
+2016.03.21 00.02.44 81 INFO:  --> End Connection:/127.0.0.1:49908
+2016.03.21 00.02.44 82 INFO:  --> New Connection:/127.0.0.1:49909
+2016.03.21 00.02.44 82 INFO:  --> File to be uploaded = a00000.tif
+2016.03.21 00.02.45 82 INFO:  --> File zu
+2016.03.21 00.02.45 82 INFO:  --> Req behandelt
+2016.03.21 00.02.45 82 INFO:  --> Res gesendet
+2016.03.21 00.02.45 82 INFO:  --> End Connection:/127.0.0.1:49909
+2016.03.21 00.02.45 83 INFO:  --> New Connection:/127.0.0.1:49910
+2016.03.21 00.02.45 83 INFO:  --> File to be uploaded = a000000.jpg
+2016.03.21 00.02.45 83 INFO:  --> File zu
+2016.03.21 00.02.45 83 INFO:  --> Req behandelt
+2016.03.21 00.02.45 83 INFO:  --> Res gesendet
+2016.03.21 00.02.45 83 INFO:  --> End Connection:/127.0.0.1:49910
+2016.03.21 00.02.45 84 INFO:  --> New Connection:/127.0.0.1:49911
+2016.03.21 00.02.45 84 INFO:  --> File to be uploaded = a000000.tif
+2016.03.21 00.02.46 84 INFO:  --> File zu
+2016.03.21 00.02.46 84 INFO:  --> Req behandelt
+2016.03.21 00.02.46 84 INFO:  --> Res gesendet
+2016.03.21 00.02.46 84 INFO:  --> End Connection:/127.0.0.1:49911
+2016.03.21 00.02.46 85 INFO:  --> New Connection:/127.0.0.1:49912
+2016.03.21 00.02.46 85 INFO:  --> File to be uploaded = a00001.jpg
+2016.03.21 00.02.46 85 INFO:  --> File zu
+2016.03.21 00.02.46 85 INFO:  --> Req behandelt
+2016.03.21 00.02.46 85 INFO:  --> Res gesendet
+2016.03.21 00.02.46 85 INFO:  --> End Connection:/127.0.0.1:49912
+2016.03.21 00.02.46 86 INFO:  --> New Connection:/127.0.0.1:49913
+2016.03.21 00.02.46 86 INFO:  --> File to be uploaded = a00001.tif
+2016.03.21 00.02.47 86 INFO:  --> File zu
+2016.03.21 00.02.47 86 INFO:  --> Req behandelt
+2016.03.21 00.02.47 86 INFO:  --> Res gesendet
+2016.03.21 00.02.47 86 INFO:  --> End Connection:/127.0.0.1:49913
+2016.03.21 00.02.47 87 INFO:  --> New Connection:/127.0.0.1:49914
+2016.03.21 00.02.47 87 INFO:  --> File to be uploaded = a0001.jpg
+2016.03.21 00.02.47 87 INFO:  --> File zu
+2016.03.21 00.02.47 87 INFO:  --> Req behandelt
+2016.03.21 00.02.47 87 INFO:  --> Res gesendet
+2016.03.21 00.02.47 87 INFO:  --> End Connection:/127.0.0.1:49914
+2016.03.21 00.02.47 88 INFO:  --> New Connection:/127.0.0.1:49915
+2016.03.21 00.02.47 88 INFO:  --> File to be uploaded = a0001.tif
+2016.03.21 00.02.48 88 INFO:  --> File zu
+2016.03.21 00.02.48 88 INFO:  --> Req behandelt
+2016.03.21 00.02.48 88 INFO:  --> Res gesendet
+2016.03.21 00.02.48 88 INFO:  --> End Connection:/127.0.0.1:49915
+2016.03.21 00.02.48 89 INFO:  --> New Connection:/127.0.0.1:49916
+2016.03.21 00.02.48 89 INFO:  --> File to be uploaded = a00010.jpg
+2016.03.21 00.02.48 89 INFO:  --> File zu
+2016.03.21 00.02.48 89 INFO:  --> Req behandelt
+2016.03.21 00.02.48 89 INFO:  --> Res gesendet
+2016.03.21 00.02.48 89 INFO:  --> End Connection:/127.0.0.1:49916
+2016.03.21 00.02.48 90 INFO:  --> New Connection:/127.0.0.1:49917
+2016.03.21 00.02.48 90 INFO:  --> File to be uploaded = a00010.tif
+2016.03.21 00.02.49 90 INFO:  --> File zu
+2016.03.21 00.02.49 90 INFO:  --> Req behandelt
+2016.03.21 00.02.49 90 INFO:  --> Res gesendet
+2016.03.21 00.02.49 90 INFO:  --> End Connection:/127.0.0.1:49917
+2016.03.21 00.02.49 91 INFO:  --> New Connection:/127.0.0.1:49918
+2016.03.21 00.02.49 91 INFO:  --> File to be uploaded = a0002.jpg
+2016.03.21 00.02.49 91 INFO:  --> File zu
+2016.03.21 00.02.49 91 INFO:  --> Req behandelt
+2016.03.21 00.02.49 91 INFO:  --> Res gesendet
+2016.03.21 00.02.49 91 INFO:  --> End Connection:/127.0.0.1:49918
+2016.03.21 00.02.49 92 INFO:  --> New Connection:/127.0.0.1:49919
+2016.03.21 00.02.49 92 INFO:  --> File to be uploaded = a0002.tif
+2016.03.21 00.02.50 92 INFO:  --> File zu
+2016.03.21 00.02.50 92 INFO:  --> Req behandelt
+2016.03.21 00.02.50 92 INFO:  --> Res gesendet
+2016.03.21 00.02.50 92 INFO:  --> End Connection:/127.0.0.1:49919
+2016.03.21 00.02.50 93 INFO:  --> New Connection:/127.0.0.1:49920
+2016.03.21 00.02.50 93 INFO:  --> File to be uploaded = a001.jpg
+2016.03.21 00.02.50 93 INFO:  --> File zu
+2016.03.21 00.02.50 93 INFO:  --> Req behandelt
+2016.03.21 00.02.50 93 INFO:  --> Res gesendet
+2016.03.21 00.02.50 93 INFO:  --> End Connection:/127.0.0.1:49920
+2016.03.21 00.02.50 94 INFO:  --> New Connection:/127.0.0.1:49921
+2016.03.21 00.02.50 94 INFO:  --> File to be uploaded = a001.tif
+2016.03.21 00.02.51 94 INFO:  --> File zu
+2016.03.21 00.02.51 94 INFO:  --> Req behandelt
+2016.03.21 00.02.51 94 INFO:  --> Res gesendet
+2016.03.21 00.02.51 94 INFO:  --> End Connection:/127.0.0.1:49921
+2016.03.21 00.02.51 95 INFO:  --> New Connection:/127.0.0.1:49922
+2016.03.21 00.02.51 95 INFO:  --> File to be uploaded = a0010.jpg
+2016.03.21 00.02.51 95 INFO:  --> File zu
+2016.03.21 00.02.51 95 INFO:  --> Req behandelt
+2016.03.21 00.02.51 95 INFO:  --> Res gesendet
+2016.03.21 00.02.51 95 INFO:  --> End Connection:/127.0.0.1:49922
+2016.03.21 00.02.51 96 INFO:  --> New Connection:/127.0.0.1:49923
+2016.03.21 00.02.51 96 INFO:  --> File to be uploaded = a0010.tif
+2016.03.21 00.02.52 96 INFO:  --> File zu
+2016.03.21 00.02.52 96 INFO:  --> Req behandelt
+2016.03.21 00.02.52 96 INFO:  --> Res gesendet
+2016.03.21 00.02.52 96 INFO:  --> End Connection:/127.0.0.1:49923
+2016.03.21 00.02.52 97 INFO:  --> New Connection:/127.0.0.1:49924
+2016.03.21 00.02.52 97 INFO:  --> File to be uploaded = a00100.jpg
+2016.03.21 00.02.52 97 INFO:  --> File zu
+2016.03.21 00.02.52 97 INFO:  --> Req behandelt
+2016.03.21 00.02.52 97 INFO:  --> Res gesendet
+2016.03.21 00.02.52 97 INFO:  --> End Connection:/127.0.0.1:49924
+2016.03.21 00.02.52 98 INFO:  --> New Connection:/127.0.0.1:49925
+2016.03.21 00.02.52 98 INFO:  --> File to be uploaded = a00100.tif
+2016.03.21 00.02.53 98 INFO:  --> File zu
+2016.03.21 00.02.53 98 INFO:  --> Req behandelt
+2016.03.21 00.02.53 98 INFO:  --> Res gesendet
+2016.03.21 00.02.53 98 INFO:  --> End Connection:/127.0.0.1:49925
+2016.03.21 00.02.53 99 INFO:  --> New Connection:/127.0.0.1:49926
+2016.03.21 00.02.53 99 INFO:  --> File to be uploaded = a0011.jpg
+2016.03.21 00.02.53 99 INFO:  --> File zu
+2016.03.21 00.02.53 99 INFO:  --> Req behandelt
+2016.03.21 00.02.53 99 INFO:  --> Res gesendet
+2016.03.21 00.02.53 99 INFO:  --> End Connection:/127.0.0.1:49926
+2016.03.21 00.02.53 100 INFO:  --> New Connection:/127.0.0.1:49927
+2016.03.21 00.02.53 100 INFO:  --> File to be uploaded = a0011.tif
+2016.03.21 00.02.54 100 INFO:  --> File zu
+2016.03.21 00.02.54 100 INFO:  --> Req behandelt
+2016.03.21 00.02.54 100 INFO:  --> Res gesendet
+2016.03.21 00.02.54 100 INFO:  --> End Connection:/127.0.0.1:49927
+2016.03.21 00.02.54 101 INFO:  --> New Connection:/127.0.0.1:49928
+2016.03.21 00.02.54 101 INFO:  --> File to be uploaded = a002.jpg
+2016.03.21 00.02.54 101 INFO:  --> File zu
+2016.03.21 00.02.54 101 INFO:  --> Req behandelt
+2016.03.21 00.02.54 101 INFO:  --> Res gesendet
+2016.03.21 00.02.54 101 INFO:  --> End Connection:/127.0.0.1:49928
+2016.03.21 00.02.54 102 INFO:  --> New Connection:/127.0.0.1:49929
+2016.03.21 00.02.54 102 INFO:  --> File to be uploaded = a002.tif
+2016.03.21 00.02.55 102 INFO:  --> File zu
+2016.03.21 00.02.55 102 INFO:  --> Req behandelt
+2016.03.21 00.02.55 102 INFO:  --> Res gesendet
+2016.03.21 00.02.55 102 INFO:  --> End Connection:/127.0.0.1:49929
+2016.03.21 00.02.55 103 INFO:  --> New Connection:/127.0.0.1:49930
+2016.03.21 00.02.55 103 INFO:  --> File to be uploaded = a0020.jpg
+2016.03.21 00.02.55 103 INFO:  --> File zu
+2016.03.21 00.02.55 103 INFO:  --> Req behandelt
+2016.03.21 00.02.55 103 INFO:  --> Res gesendet
+2016.03.21 00.02.55 103 INFO:  --> End Connection:/127.0.0.1:49930
+2016.03.21 00.02.55 104 INFO:  --> New Connection:/127.0.0.1:49931
+2016.03.21 00.02.55 104 INFO:  --> File to be uploaded = a0020.tif
+2016.03.21 00.02.56 104 INFO:  --> File zu
+2016.03.21 00.02.56 104 INFO:  --> Req behandelt
+2016.03.21 00.02.56 104 INFO:  --> Res gesendet
+2016.03.21 00.02.56 104 INFO:  --> End Connection:/127.0.0.1:49931
+2016.03.21 00.02.56 105 INFO:  --> New Connection:/127.0.0.1:49932
+2016.03.21 00.02.56 105 INFO:  --> File to be uploaded = a003.jpg
+2016.03.21 00.02.56 105 INFO:  --> File zu
+2016.03.21 00.02.56 105 INFO:  --> Req behandelt
+2016.03.21 00.02.56 105 INFO:  --> Res gesendet
+2016.03.21 00.02.56 105 INFO:  --> End Connection:/127.0.0.1:49932
+2016.03.21 00.02.56 106 INFO:  --> New Connection:/127.0.0.1:49933
+2016.03.21 00.02.56 106 INFO:  --> File to be uploaded = a003.tif
+2016.03.21 00.02.57 106 INFO:  --> File zu
+2016.03.21 00.02.57 106 INFO:  --> Req behandelt
+2016.03.21 00.02.57 106 INFO:  --> Res gesendet
+2016.03.21 00.02.57 106 INFO:  --> End Connection:/127.0.0.1:49933
+2016.03.21 00.02.57 107 INFO:  --> New Connection:/127.0.0.1:49934
+2016.03.21 00.02.57 107 INFO:  --> File to be uploaded = a01.jpg
+2016.03.21 00.02.57 107 INFO:  --> File zu
+2016.03.21 00.02.57 107 INFO:  --> Req behandelt
+2016.03.21 00.02.57 107 INFO:  --> Res gesendet
+2016.03.21 00.02.57 107 INFO:  --> End Connection:/127.0.0.1:49934
+2016.03.21 00.02.57 108 INFO:  --> New Connection:/127.0.0.1:49935
+2016.03.21 00.02.57 108 INFO:  --> File to be uploaded = a01.tif
+2016.03.21 00.02.58 108 INFO:  --> File zu
+2016.03.21 00.02.58 108 INFO:  --> Req behandelt
+2016.03.21 00.02.58 108 INFO:  --> Res gesendet
+2016.03.21 00.02.58 108 INFO:  --> End Connection:/127.0.0.1:49935
+2016.03.21 00.02.58 109 INFO:  --> New Connection:/127.0.0.1:49936
+2016.03.21 00.02.58 109 INFO:  --> File to be uploaded = a010.jpg
+2016.03.21 00.02.58 109 INFO:  --> File zu
+2016.03.21 00.02.58 109 INFO:  --> Req behandelt
+2016.03.21 00.02.58 109 INFO:  --> Res gesendet
+2016.03.21 00.02.58 109 INFO:  --> End Connection:/127.0.0.1:49936
+2016.03.21 00.02.58 110 INFO:  --> New Connection:/127.0.0.1:49937
+2016.03.21 00.02.58 110 INFO:  --> File to be uploaded = a010.tif
+2016.03.21 00.02.59 110 INFO:  --> File zu
+2016.03.21 00.02.59 110 INFO:  --> Req behandelt
+2016.03.21 00.02.59 110 INFO:  --> Res gesendet
+2016.03.21 00.02.59 110 INFO:  --> End Connection:/127.0.0.1:49937
+2016.03.21 00.02.59 111 INFO:  --> New Connection:/127.0.0.1:49938
+2016.03.21 00.02.59 111 INFO:  --> File to be uploaded = a0100.jpg
+2016.03.21 00.02.59 111 INFO:  --> File zu
+2016.03.21 00.02.59 111 INFO:  --> Req behandelt
+2016.03.21 00.02.59 111 INFO:  --> Res gesendet
+2016.03.21 00.02.59 111 INFO:  --> End Connection:/127.0.0.1:49938
+2016.03.21 00.02.59 112 INFO:  --> New Connection:/127.0.0.1:49939
+2016.03.21 00.02.59 112 INFO:  --> File to be uploaded = a0100.tif
+2016.03.21 00.03.00 112 INFO:  --> File zu
+2016.03.21 00.03.00 112 INFO:  --> Req behandelt
+2016.03.21 00.03.00 112 INFO:  --> Res gesendet
+2016.03.21 00.03.00 112 INFO:  --> End Connection:/127.0.0.1:49939
+2016.03.21 00.03.00 113 INFO:  --> New Connection:/127.0.0.1:49940
+2016.03.21 00.03.00 113 INFO:  --> File to be uploaded = a01000.jpg
+2016.03.21 00.03.00 113 INFO:  --> File zu
+2016.03.21 00.03.00 113 INFO:  --> Req behandelt
+2016.03.21 00.03.00 113 INFO:  --> Res gesendet
+2016.03.21 00.03.00 113 INFO:  --> End Connection:/127.0.0.1:49940
+2016.03.21 00.03.00 14 INFO:  --> New Connection:/127.0.0.1:49941
+2016.03.21 00.03.00 14 INFO:  --> File to be uploaded = a01000.tif
+2016.03.21 00.03.01 14 INFO:  --> File zu
+2016.03.21 00.03.01 14 INFO:  --> Req behandelt
+2016.03.21 00.03.01 14 INFO:  --> Res gesendet
+2016.03.21 00.03.01 14 INFO:  --> End Connection:/127.0.0.1:49941
+2016.03.21 00.03.01 15 INFO:  --> New Connection:/127.0.0.1:49942
+2016.03.21 00.03.01 15 INFO:  --> File to be uploaded = a0101.jpg
+2016.03.21 00.03.01 15 INFO:  --> File zu
+2016.03.21 00.03.01 15 INFO:  --> Req behandelt
+2016.03.21 00.03.01 15 INFO:  --> Res gesendet
+2016.03.21 00.03.01 15 INFO:  --> End Connection:/127.0.0.1:49942
+2016.03.21 00.03.01 16 INFO:  --> New Connection:/127.0.0.1:49944
+2016.03.21 00.03.01 16 INFO:  --> File to be uploaded = a0101.tif
+2016.03.21 00.03.02 16 INFO:  --> File zu
+2016.03.21 00.03.02 16 INFO:  --> Req behandelt
+2016.03.21 00.03.02 16 INFO:  --> Res gesendet
+2016.03.21 00.03.02 16 INFO:  --> End Connection:/127.0.0.1:49944
+2016.03.21 00.03.02 17 INFO:  --> New Connection:/127.0.0.1:49945
+2016.03.21 00.03.02 17 INFO:  --> File to be uploaded = a011.jpg
+2016.03.21 00.03.02 17 INFO:  --> File zu
+2016.03.21 00.03.02 17 INFO:  --> Req behandelt
+2016.03.21 00.03.02 17 INFO:  --> Res gesendet
+2016.03.21 00.03.02 17 INFO:  --> End Connection:/127.0.0.1:49945
+2016.03.21 00.03.02 18 INFO:  --> New Connection:/127.0.0.1:49946
+2016.03.21 00.03.02 18 INFO:  --> File to be uploaded = a011.tif
+2016.03.21 00.03.02 18 INFO:  --> File zu
+2016.03.21 00.03.02 18 INFO:  --> Req behandelt
+2016.03.21 00.03.02 18 INFO:  --> Res gesendet
+2016.03.21 00.03.02 18 INFO:  --> End Connection:/127.0.0.1:49946
+2016.03.21 00.03.02 19 INFO:  --> New Connection:/127.0.0.1:49947
+2016.03.21 00.03.02 19 INFO:  --> File to be uploaded = a0110.jpg
+2016.03.21 00.03.03 19 INFO:  --> File zu
+2016.03.21 00.03.03 19 INFO:  --> Req behandelt
+2016.03.21 00.03.03 19 INFO:  --> Res gesendet
+2016.03.21 00.03.03 19 INFO:  --> End Connection:/127.0.0.1:49947
+2016.03.21 00.03.03 20 INFO:  --> New Connection:/127.0.0.1:49948
+2016.03.21 00.03.03 20 INFO:  --> File to be uploaded = a0110.tif
+2016.03.21 00.03.03 20 INFO:  --> File zu
+2016.03.21 00.03.03 20 INFO:  --> Req behandelt
+2016.03.21 00.03.03 20 INFO:  --> Res gesendet
+2016.03.21 00.03.03 20 INFO:  --> End Connection:/127.0.0.1:49948
+2016.03.21 00.03.03 21 INFO:  --> New Connection:/127.0.0.1:49949
+2016.03.21 00.03.03 21 INFO:  --> File to be uploaded = a012.jpg
+2016.03.21 00.03.03 21 INFO:  --> File zu
+2016.03.21 00.03.03 21 INFO:  --> Req behandelt
+2016.03.21 00.03.03 21 INFO:  --> Res gesendet
+2016.03.21 00.03.03 21 INFO:  --> End Connection:/127.0.0.1:49949
+2016.03.21 00.03.04 22 INFO:  --> New Connection:/127.0.0.1:49950
+2016.03.21 00.03.04 22 INFO:  --> File to be uploaded = a012.tif
+2016.03.21 00.03.04 22 INFO:  --> File zu
+2016.03.21 00.03.04 22 INFO:  --> Req behandelt
+2016.03.21 00.03.04 22 INFO:  --> Res gesendet
+2016.03.21 00.03.04 22 INFO:  --> End Connection:/127.0.0.1:49950
+2016.03.21 00.03.04 23 INFO:  --> New Connection:/127.0.0.1:49951
+2016.03.21 00.03.04 23 INFO:  --> File to be uploaded = a02.jpg
+2016.03.21 00.03.04 23 INFO:  --> File zu
+2016.03.21 00.03.04 23 INFO:  --> Req behandelt
+2016.03.21 00.03.04 23 INFO:  --> Res gesendet
+2016.03.21 00.03.04 23 INFO:  --> End Connection:/127.0.0.1:49951
+2016.03.21 00.03.04 24 INFO:  --> New Connection:/127.0.0.1:49952
+2016.03.21 00.03.04 24 INFO:  --> File to be uploaded = a02.tif
+2016.03.21 00.03.05 24 INFO:  --> File zu
+2016.03.21 00.03.05 24 INFO:  --> Req behandelt
+2016.03.21 00.03.05 24 INFO:  --> Res gesendet
+2016.03.21 00.03.05 24 INFO:  --> End Connection:/127.0.0.1:49952
+2016.03.21 00.03.05 25 INFO:  --> New Connection:/127.0.0.1:49953
+2016.03.21 00.03.05 25 INFO:  --> File to be uploaded = a020.jpg
+2016.03.21 00.03.05 25 INFO:  --> File zu
+2016.03.21 00.03.05 25 INFO:  --> Req behandelt
+2016.03.21 00.03.05 25 INFO:  --> Res gesendet
+2016.03.21 00.03.05 25 INFO:  --> End Connection:/127.0.0.1:49953
+2016.03.21 00.03.05 26 INFO:  --> New Connection:/127.0.0.1:49954
+2016.03.21 00.03.05 26 INFO:  --> File to be uploaded = a020.tif
+2016.03.21 00.03.06 26 INFO:  --> File zu
+2016.03.21 00.03.06 26 INFO:  --> Req behandelt
+2016.03.21 00.03.06 26 INFO:  --> Res gesendet
+2016.03.21 00.03.06 26 INFO:  --> End Connection:/127.0.0.1:49954
+2016.03.21 00.03.06 27 INFO:  --> New Connection:/127.0.0.1:49955
+2016.03.21 00.03.06 27 INFO:  --> File to be uploaded = a0200.jpg
+2016.03.21 00.03.06 27 INFO:  --> File zu
+2016.03.21 00.03.06 27 INFO:  --> Req behandelt
+2016.03.21 00.03.06 27 INFO:  --> Res gesendet
+2016.03.21 00.03.06 27 INFO:  --> End Connection:/127.0.0.1:49955
+2016.03.21 00.03.06 28 INFO:  --> New Connection:/127.0.0.1:49956
+2016.03.21 00.03.06 28 INFO:  --> File to be uploaded = a0200.tif
+2016.03.21 00.03.07 28 INFO:  --> File zu
+2016.03.21 00.03.07 28 INFO:  --> Req behandelt
+2016.03.21 00.03.07 28 INFO:  --> Res gesendet
+2016.03.21 00.03.07 28 INFO:  --> End Connection:/127.0.0.1:49956
+2016.03.21 00.03.07 29 INFO:  --> New Connection:/127.0.0.1:49957
+2016.03.21 00.03.07 29 INFO:  --> File to be uploaded = a021.jpg
+2016.03.21 00.03.07 29 INFO:  --> File zu
+2016.03.21 00.03.07 29 INFO:  --> Req behandelt
+2016.03.21 00.03.07 29 INFO:  --> Res gesendet
+2016.03.21 00.03.07 29 INFO:  --> End Connection:/127.0.0.1:49957
+2016.03.21 00.03.07 30 INFO:  --> New Connection:/127.0.0.1:49958
+2016.03.21 00.03.07 30 INFO:  --> File to be uploaded = a021.tif
+2016.03.21 00.03.08 30 INFO:  --> File zu
+2016.03.21 00.03.08 30 INFO:  --> Req behandelt
+2016.03.21 00.03.08 30 INFO:  --> Res gesendet
+2016.03.21 00.03.08 30 INFO:  --> End Connection:/127.0.0.1:49958
+2016.03.21 00.03.09 31 INFO:  --> New Connection:/127.0.0.1:49959
+2016.03.21 00.03.09 31 INFO:  --> File to be uploaded = a03.jpg
+2016.03.21 00.03.09 31 INFO:  --> File zu
+2016.03.21 00.03.09 31 INFO:  --> Req behandelt
+2016.03.21 00.03.09 31 INFO:  --> Res gesendet
+2016.03.21 00.03.09 31 INFO:  --> End Connection:/127.0.0.1:49959
+2016.03.21 00.03.09 32 INFO:  --> New Connection:/127.0.0.1:49960
+2016.03.21 00.03.09 32 INFO:  --> File to be uploaded = a03.tif
+2016.03.21 00.03.10 32 INFO:  --> File zu
+2016.03.21 00.03.10 32 INFO:  --> Req behandelt
+2016.03.21 00.03.10 32 INFO:  --> Res gesendet
+2016.03.21 00.03.10 32 INFO:  --> End Connection:/127.0.0.1:49960
+2016.03.21 00.03.10 33 INFO:  --> New Connection:/127.0.0.1:49962
+2016.03.21 00.03.10 33 INFO:  --> End Connection:/127.0.0.1:49962
+2016.03.21 00.03.10 34 INFO:  --> New Connection:/127.0.0.1:49963
+2016.03.21 00.03.10 34 INFO:  --> File to be uploaded = a030.jpg
+2016.03.21 00.03.10 34 INFO:  --> File zu
+2016.03.21 00.03.10 34 INFO:  --> Req behandelt
+2016.03.21 00.03.10 34 INFO:  --> Res gesendet
+2016.03.21 00.03.10 34 INFO:  --> End Connection:/127.0.0.1:49963
+2016.03.21 00.03.10 35 INFO:  --> New Connection:/127.0.0.1:49966
+2016.03.21 00.03.10 35 INFO:  --> File to be uploaded = a030.tif
+2016.03.21 00.03.11 35 INFO:  --> File zu
+2016.03.21 00.03.11 35 INFO:  --> Req behandelt
+2016.03.21 00.03.11 35 INFO:  --> Res gesendet
+2016.03.21 00.03.11 35 INFO:  --> End Connection:/127.0.0.1:49966
+2016.03.21 00.03.11 36 INFO:  --> New Connection:/127.0.0.1:49968
+2016.03.21 00.03.11 36 INFO:  --> File to be uploaded = a04.jpg
+2016.03.21 00.03.11 36 INFO:  --> File zu
+2016.03.21 00.03.11 36 INFO:  --> Req behandelt
+2016.03.21 00.03.11 36 INFO:  --> Res gesendet
+2016.03.21 00.03.11 36 INFO:  --> End Connection:/127.0.0.1:49968
+2016.03.21 00.03.11 37 INFO:  --> New Connection:/127.0.0.1:49969
+2016.03.21 00.03.11 37 INFO:  --> File to be uploaded = a04.tif
+2016.03.21 00.03.12 37 INFO:  --> File zu
+2016.03.21 00.03.12 37 INFO:  --> Req behandelt
+2016.03.21 00.03.12 37 INFO:  --> Res gesendet
+2016.03.21 00.03.12 37 INFO:  --> End Connection:/127.0.0.1:49969
+2016.03.21 00.03.12 38 INFO:  --> New Connection:/127.0.0.1:49970
+2016.03.21 00.03.12 38 INFO:  --> File to be uploaded = a1.jpg
+2016.03.21 00.03.13 38 INFO:  --> File zu
+2016.03.21 00.03.13 38 INFO:  --> Req behandelt
+2016.03.21 00.03.13 38 INFO:  --> Res gesendet
+2016.03.21 00.03.13 38 INFO:  --> End Connection:/127.0.0.1:49970
+2016.03.21 00.03.13 39 INFO:  --> New Connection:/127.0.0.1:49971
+2016.03.21 00.03.13 39 INFO:  --> File to be uploaded = a1.tif
+2016.03.21 00.03.14 39 INFO:  --> File zu
+2016.03.21 00.03.14 39 INFO:  --> Req behandelt
+2016.03.21 00.03.14 39 INFO:  --> Res gesendet
+2016.03.21 00.03.14 39 INFO:  --> End Connection:/127.0.0.1:49971
+2016.03.21 00.03.14 40 INFO:  --> New Connection:/127.0.0.1:49972
+2016.03.21 00.03.14 40 INFO:  --> File to be uploaded = a10.jpg
+2016.03.21 00.03.14 40 INFO:  --> File zu
+2016.03.21 00.03.14 40 INFO:  --> Req behandelt
+2016.03.21 00.03.14 40 INFO:  --> Res gesendet
+2016.03.21 00.03.14 40 INFO:  --> End Connection:/127.0.0.1:49972
+2016.03.21 00.03.14 41 INFO:  --> New Connection:/127.0.0.1:49974
+2016.03.21 00.03.14 41 INFO:  --> File to be uploaded = a10.tif
+2016.03.21 00.03.15 41 INFO:  --> File zu
+2016.03.21 00.03.15 41 INFO:  --> Req behandelt
+2016.03.21 00.03.15 41 INFO:  --> Res gesendet
+2016.03.21 00.03.15 41 INFO:  --> End Connection:/127.0.0.1:49974
+2016.03.21 00.03.15 42 INFO:  --> New Connection:/127.0.0.1:49975
+2016.03.21 00.03.15 42 INFO:  --> File to be uploaded = a100.jpg
+2016.03.21 00.03.15 42 INFO:  --> File zu
+2016.03.21 00.03.15 42 INFO:  --> Req behandelt
+2016.03.21 00.03.15 42 INFO:  --> Res gesendet
+2016.03.21 00.03.15 42 INFO:  --> End Connection:/127.0.0.1:49975
+2016.03.21 00.03.15 43 INFO:  --> New Connection:/127.0.0.1:49976
+2016.03.21 00.03.15 43 INFO:  --> File to be uploaded = a100.tif
+2016.03.21 00.03.16 43 INFO:  --> File zu
+2016.03.21 00.03.16 43 INFO:  --> Req behandelt
+2016.03.21 00.03.16 43 INFO:  --> Res gesendet
+2016.03.21 00.03.16 43 INFO:  --> End Connection:/127.0.0.1:49976
+2016.03.21 00.03.16 44 INFO:  --> New Connection:/127.0.0.1:49977
+2016.03.21 00.03.16 44 INFO:  --> File to be uploaded = a1000.jpg
+2016.03.21 00.03.16 44 INFO:  --> File zu
+2016.03.21 00.03.16 44 INFO:  --> Req behandelt
+2016.03.21 00.03.16 44 INFO:  --> Res gesendet
+2016.03.21 00.03.16 45 INFO:  --> New Connection:/127.0.0.1:49978
+2016.03.21 00.03.16 45 INFO:  --> File to be uploaded = a1000.tif
+2016.03.21 00.03.16 44 INFO:  --> End Connection:/127.0.0.1:49977
+2016.03.21 00.03.17 45 INFO:  --> File zu
+2016.03.21 00.03.17 45 INFO:  --> Req behandelt
+2016.03.21 00.03.17 45 INFO:  --> Res gesendet
+2016.03.21 00.03.17 45 INFO:  --> End Connection:/127.0.0.1:49978
+2016.03.21 00.03.17 46 INFO:  --> New Connection:/127.0.0.1:49979
+2016.03.21 00.03.17 46 INFO:  --> File to be uploaded = a10000.jpg
+2016.03.21 00.03.17 46 INFO:  --> File zu
+2016.03.21 00.03.17 46 INFO:  --> Req behandelt
+2016.03.21 00.03.17 46 INFO:  --> Res gesendet
+2016.03.21 00.03.17 46 INFO:  --> End Connection:/127.0.0.1:49979
+2016.03.21 00.03.17 47 INFO:  --> New Connection:/127.0.0.1:49980
+2016.03.21 00.03.17 47 INFO:  --> File to be uploaded = a10000.tif
+2016.03.21 00.03.18 47 INFO:  --> File zu
+2016.03.21 00.03.18 47 INFO:  --> Req behandelt
+2016.03.21 00.03.18 47 INFO:  --> Res gesendet
+2016.03.21 00.03.18 47 INFO:  --> End Connection:/127.0.0.1:49980
+2016.03.21 00.03.18 48 INFO:  --> New Connection:/127.0.0.1:49981
+2016.03.21 00.03.18 48 INFO:  --> File to be uploaded = a1001.jpg
+2016.03.21 00.03.18 48 INFO:  --> File zu
+2016.03.21 00.03.18 48 INFO:  --> Req behandelt
+2016.03.21 00.03.18 48 INFO:  --> Res gesendet
+2016.03.21 00.03.18 48 INFO:  --> End Connection:/127.0.0.1:49981
+2016.03.21 00.03.18 49 INFO:  --> New Connection:/127.0.0.1:49982
+2016.03.21 00.03.18 49 INFO:  --> File to be uploaded = a1001.tif
+2016.03.21 00.03.19 49 INFO:  --> File zu
+2016.03.21 00.03.19 49 INFO:  --> Req behandelt
+2016.03.21 00.03.19 49 INFO:  --> Res gesendet
+2016.03.21 00.03.19 49 INFO:  --> End Connection:/127.0.0.1:49982
+2016.03.21 00.03.19 50 INFO:  --> New Connection:/127.0.0.1:49983
+2016.03.21 00.03.19 50 INFO:  --> File to be uploaded = a101.jpg
+2016.03.21 00.03.19 50 INFO:  --> File zu
+2016.03.21 00.03.19 50 INFO:  --> Req behandelt
+2016.03.21 00.03.19 50 INFO:  --> Res gesendet
+2016.03.21 00.03.19 50 INFO:  --> End Connection:/127.0.0.1:49983
+2016.03.21 00.03.19 51 INFO:  --> New Connection:/127.0.0.1:49984
+2016.03.21 00.03.19 51 INFO:  --> File to be uploaded = a101.tif
+2016.03.21 00.03.20 51 INFO:  --> File zu
+2016.03.21 00.03.20 51 INFO:  --> Req behandelt
+2016.03.21 00.03.20 51 INFO:  --> Res gesendet
+2016.03.21 00.03.20 51 INFO:  --> End Connection:/127.0.0.1:49984
+2016.03.21 00.03.20 52 INFO:  --> New Connection:/127.0.0.1:49985
+2016.03.21 00.03.20 52 INFO:  --> File to be uploaded = a1010.jpg
+2016.03.21 00.03.20 52 INFO:  --> File zu
+2016.03.21 00.03.20 52 INFO:  --> Req behandelt
+2016.03.21 00.03.20 52 INFO:  --> Res gesendet
+2016.03.21 00.03.20 52 INFO:  --> End Connection:/127.0.0.1:49985
+2016.03.21 00.03.20 53 INFO:  --> New Connection:/127.0.0.1:49986
+2016.03.21 00.03.20 53 INFO:  --> File to be uploaded = a1010.tif
+2016.03.21 00.03.21 53 INFO:  --> File zu
+2016.03.21 00.03.21 53 INFO:  --> Req behandelt
+2016.03.21 00.03.21 53 INFO:  --> Res gesendet
+2016.03.21 00.03.21 53 INFO:  --> End Connection:/127.0.0.1:49986
+2016.03.21 00.03.21 54 INFO:  --> New Connection:/127.0.0.1:49987
+2016.03.21 00.03.21 54 INFO:  --> File to be uploaded = a102.jpg
+2016.03.21 00.03.21 54 INFO:  --> File zu
+2016.03.21 00.03.21 54 INFO:  --> Req behandelt
+2016.03.21 00.03.21 54 INFO:  --> Res gesendet
+2016.03.21 00.03.21 54 INFO:  --> End Connection:/127.0.0.1:49987
+2016.03.21 00.03.21 55 INFO:  --> New Connection:/127.0.0.1:49988
+2016.03.21 00.03.21 55 INFO:  --> File to be uploaded = a102.tif
+2016.03.21 00.03.22 55 INFO:  --> File zu
+2016.03.21 00.03.22 55 INFO:  --> Req behandelt
+2016.03.21 00.03.22 55 INFO:  --> Res gesendet
+2016.03.21 00.03.22 55 INFO:  --> End Connection:/127.0.0.1:49988
+2016.03.21 00.03.22 56 INFO:  --> New Connection:/127.0.0.1:49989
+2016.03.21 00.03.22 56 INFO:  --> File to be uploaded = a11.jpg
+2016.03.21 00.03.22 56 INFO:  --> File zu
+2016.03.21 00.03.22 56 INFO:  --> Req behandelt
+2016.03.21 00.03.22 56 INFO:  --> Res gesendet
+2016.03.21 00.03.22 56 INFO:  --> End Connection:/127.0.0.1:49989
+2016.03.21 00.03.22 57 INFO:  --> New Connection:/127.0.0.1:49990
+2016.03.21 00.03.22 57 INFO:  --> File to be uploaded = a11.tif
+2016.03.21 00.03.23 57 INFO:  --> File zu
+2016.03.21 00.03.23 57 INFO:  --> Req behandelt
+2016.03.21 00.03.23 57 INFO:  --> Res gesendet
+2016.03.21 00.03.23 57 INFO:  --> End Connection:/127.0.0.1:49990
+2016.03.21 00.03.23 58 INFO:  --> New Connection:/127.0.0.1:49992
+2016.03.21 00.03.23 58 INFO:  --> File to be uploaded = a110.jpg
+2016.03.21 00.03.23 58 INFO:  --> File zu
+2016.03.21 00.03.23 58 INFO:  --> Req behandelt
+2016.03.21 00.03.23 58 INFO:  --> Res gesendet
+2016.03.21 00.03.23 58 INFO:  --> End Connection:/127.0.0.1:49992
+2016.03.21 00.03.23 59 INFO:  --> New Connection:/127.0.0.1:49993
+2016.03.21 00.03.23 59 INFO:  --> File to be uploaded = a110.tif
+2016.03.21 00.03.24 59 INFO:  --> File zu
+2016.03.21 00.03.24 59 INFO:  --> Req behandelt
+2016.03.21 00.03.24 59 INFO:  --> Res gesendet
+2016.03.21 00.03.24 59 INFO:  --> End Connection:/127.0.0.1:49993
+2016.03.21 00.03.24 60 INFO:  --> New Connection:/127.0.0.1:49994
+2016.03.21 00.03.24 60 INFO:  --> File to be uploaded = a1100.jpg
+2016.03.21 00.03.24 60 INFO:  --> File zu
+2016.03.21 00.03.24 60 INFO:  --> Req behandelt
+2016.03.21 00.03.24 60 INFO:  --> Res gesendet
+2016.03.21 00.03.24 60 INFO:  --> End Connection:/127.0.0.1:49994
+2016.03.21 00.03.24 61 INFO:  --> New Connection:/127.0.0.1:49996
+2016.03.21 00.03.24 61 INFO:  --> File to be uploaded = a1100.tif
+2016.03.21 00.03.25 61 INFO:  --> File zu
+2016.03.21 00.03.25 61 INFO:  --> Req behandelt
+2016.03.21 00.03.25 61 INFO:  --> Res gesendet
+2016.03.21 00.03.25 61 INFO:  --> End Connection:/127.0.0.1:49996
+2016.03.21 00.03.25 62 INFO:  --> New Connection:/127.0.0.1:49997
+2016.03.21 00.03.25 62 INFO:  --> File to be uploaded = a111.jpg
+2016.03.21 00.03.25 62 INFO:  --> File zu
+2016.03.21 00.03.25 62 INFO:  --> Req behandelt
+2016.03.21 00.03.25 62 INFO:  --> Res gesendet
+2016.03.21 00.03.25 62 INFO:  --> End Connection:/127.0.0.1:49997
+2016.03.21 00.03.25 63 INFO:  --> New Connection:/127.0.0.1:49998
+2016.03.21 00.03.25 63 INFO:  --> File to be uploaded = a111.tif
+2016.03.21 00.03.26 63 INFO:  --> File zu
+2016.03.21 00.03.26 63 INFO:  --> Req behandelt
+2016.03.21 00.03.26 63 INFO:  --> Res gesendet
+2016.03.21 00.03.26 63 INFO:  --> End Connection:/127.0.0.1:49998
+2016.03.21 00.03.26 64 INFO:  --> New Connection:/127.0.0.1:49999
+2016.03.21 00.03.26 64 INFO:  --> File to be uploaded = a12.jpg
+2016.03.21 00.03.26 64 INFO:  --> File zu
+2016.03.21 00.03.26 64 INFO:  --> Req behandelt
+2016.03.21 00.03.26 64 INFO:  --> Res gesendet
+2016.03.21 00.03.26 64 INFO:  --> End Connection:/127.0.0.1:49999
+2016.03.21 00.03.26 65 INFO:  --> New Connection:/127.0.0.1:50000
+2016.03.21 00.03.26 65 INFO:  --> File to be uploaded = a12.tif
+2016.03.21 00.03.27 65 INFO:  --> File zu
+2016.03.21 00.03.27 65 INFO:  --> Req behandelt
+2016.03.21 00.03.27 65 INFO:  --> Res gesendet
+2016.03.21 00.03.27 65 INFO:  --> End Connection:/127.0.0.1:50000
+2016.03.21 00.03.27 66 INFO:  --> New Connection:/127.0.0.1:50001
+2016.03.21 00.03.27 66 INFO:  --> File to be uploaded = a120.jpg
+2016.03.21 00.03.27 66 INFO:  --> File zu
+2016.03.21 00.03.27 66 INFO:  --> Req behandelt
+2016.03.21 00.03.27 66 INFO:  --> Res gesendet
+2016.03.21 00.03.27 66 INFO:  --> End Connection:/127.0.0.1:50001
+2016.03.21 00.03.27 67 INFO:  --> New Connection:/127.0.0.1:50002
+2016.03.21 00.03.27 67 INFO:  --> File to be uploaded = a120.tif
+2016.03.21 00.03.28 67 INFO:  --> File zu
+2016.03.21 00.03.34 68 INFO:  --> New Connection:/127.0.0.1:50003
+2016.03.21 00.03.34 69 INFO:  --> New Connection:/127.0.0.1:50004
+2016.03.21 00.03.34 68 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 00.03.35 68 INFO:  --> File zu
+2016.03.21 00.03.35 68 INFO:  --> Req behandelt
+2016.03.21 00.03.35 68 INFO:  --> Res gesendet
+2016.03.21 00.03.35 68 INFO:  --> End Connection:/127.0.0.1:50003
+2016.03.21 00.03.56 69 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 00.03.56 69 INFO:  --> File zu
+2016.03.21 00.03.56 69 INFO:  --> Req behandelt
+2016.03.21 00.03.56 69 INFO:  --> Res gesendet
+2016.03.21 00.03.56 69 INFO:  --> End Connection:/127.0.0.1:50004
+2016.03.21 00.04.28 70 INFO:  --> New Connection:/127.0.0.1:50009
+2016.03.21 00.04.28 71 INFO:  --> New Connection:/127.0.0.1:50010
+2016.03.21 00.04.28 70 INFO:  --> File to be uploaded = AU-wp60.tif
+2016.03.21 00.04.28 70 INFO:  --> File zu
+2016.03.21 00.04.28 70 INFO:  --> Req behandelt
+2016.03.21 00.04.28 70 INFO:  --> Res gesendet
+2016.03.21 00.04.28 70 INFO:  --> End Connection:/127.0.0.1:50009
+2016.03.21 00.04.28 71 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 00.04.29 71 INFO:  --> File zu
+2016.03.21 00.04.29 71 INFO:  --> Req behandelt
+2016.03.21 00.04.29 71 INFO:  --> Res gesendet
+2016.03.21 00.04.29 71 INFO:  --> End Connection:/127.0.0.1:50010
+2016.03.21 00.04.41 72 INFO:  --> New Connection:/127.0.0.1:50014
+2016.03.21 00.04.41 73 INFO:  --> New Connection:/127.0.0.1:50015
+2016.03.21 00.04.41 72 INFO:  --> File to be uploaded = AU-wp60.tif
+2016.03.21 00.04.42 72 INFO:  --> File zu
+2016.03.21 00.04.42 72 INFO:  --> Req behandelt
+2016.03.21 00.04.42 72 INFO:  --> Res gesendet
+2016.03.21 00.04.42 72 INFO:  --> End Connection:/127.0.0.1:50014
+2016.03.21 00.04.42 73 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 00.04.43 73 INFO:  --> File zu
+2016.03.21 00.04.43 73 INFO:  --> Req behandelt
+2016.03.21 00.04.43 73 INFO:  --> Res gesendet
+2016.03.21 00.04.43 73 INFO:  --> End Connection:/127.0.0.1:50015
+2016.03.21 00.05.06 74 INFO:  --> New Connection:/127.0.0.1:50022
+2016.03.21 00.05.06 75 INFO:  --> New Connection:/127.0.0.1:50021
+2016.03.21 00.05.06 74 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 00.05.07 74 INFO:  --> File zu
+2016.03.21 00.05.07 74 INFO:  --> Req behandelt
+2016.03.21 00.05.07 74 INFO:  --> Res gesendet
+2016.03.21 00.05.07 74 INFO:  --> End Connection:/127.0.0.1:50022
+2016.03.21 00.05.12 75 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 00.05.13 75 INFO:  --> File zu
+2016.03.21 00.05.13 75 INFO:  --> Req behandelt
+2016.03.21 00.05.13 75 INFO:  --> Res gesendet
+2016.03.21 00.05.13 75 INFO:  --> End Connection:/127.0.0.1:50021
+2016.03.21 00.08.32 76 INFO:  --> New Connection:/127.0.0.1:50044
+2016.03.21 00.08.32 77 INFO:  --> New Connection:/127.0.0.1:50045
+2016.03.21 00.08.32 78 INFO:  --> New Connection:/127.0.0.1:50046
+2016.03.21 00.08.32 79 INFO:  --> New Connection:/127.0.0.1:50047
+2016.03.21 00.08.32 76 INFO:  --> End Connection:/127.0.0.1:50044
+2016.03.21 00.08.32 67 INFO:  --> Req behandelt
+2016.03.21 00.08.32 67 INFO:  --> Res gesendet
+2016.03.21 00.08.32 67 INFO:  --> End Connection:/127.0.0.1:50002
+2016.03.21 00.08.42 78 SEVERE:  --> ERROR can't read request
+2016.03.21 00.08.42 79 SEVERE:  --> ERROR can't read request
+2016.03.21 00.08.42 77 SEVERE:  --> ERROR can't read request
+2016.03.21 00.08.42 77 INFO:  --> End Connection:/127.0.0.1:50045
+2016.03.21 00.08.42 78 INFO:  --> End Connection:/127.0.0.1:50046
+2016.03.21 00.08.42 79 INFO:  --> End Connection:/127.0.0.1:50047
+2016.03.21 00.13.32 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 00.13.44 14 INFO:  --> New Connection:/127.0.0.1:50100
+2016.03.21 00.13.44 14 INFO:  --> File to be uploaded = a.tif
+2016.03.21 00.13.44 14 INFO:  --> File zu
+2016.03.21 00.13.44 14 INFO:  --> Req behandelt
+2016.03.21 00.13.44 14 INFO:  --> Res gesendet
+2016.03.21 00.13.44 14 INFO:  --> End Connection:/127.0.0.1:50100
+2016.03.21 00.13.44 15 INFO:  --> New Connection:/127.0.0.1:50101
+2016.03.21 00.13.44 15 INFO:  --> File to be uploaded = a.jpg
+2016.03.21 00.13.45 15 INFO:  --> File zu
+2016.03.21 00.13.45 15 INFO:  --> Req behandelt
+2016.03.21 00.13.45 15 INFO:  --> Res gesendet
+2016.03.21 00.13.45 15 INFO:  --> End Connection:/127.0.0.1:50101
+2016.03.21 00.18.02 16 INFO:  --> New Connection:/127.0.0.1:50145
+2016.03.21 00.22.30 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 00.23.22 14 INFO:  --> New Connection:/127.0.0.1:50197
+2016.03.21 00.23.29 14 INFO:  --> File to be uploaded = a0.jpg
+2016.03.21 00.23.29 14 INFO:  --> File zu
+2016.03.21 00.23.29 14 INFO:  --> Req behandelt
+2016.03.21 00.23.29 14 INFO:  --> Res gesendet
+2016.03.21 00.23.29 14 INFO:  --> End Connection:/127.0.0.1:50197
+2016.03.21 00.23.29 15 INFO:  --> New Connection:/127.0.0.1:50200
+2016.03.21 00.23.29 15 INFO:  --> File to be uploaded = a0.tif
+2016.03.21 00.23.30 15 INFO:  --> File zu
+2016.03.21 00.23.30 15 INFO:  --> Req behandelt
+2016.03.21 00.23.30 15 INFO:  --> Res gesendet
+2016.03.21 00.23.30 15 INFO:  --> End Connection:/127.0.0.1:50200
+2016.03.21 00.23.53 16 INFO:  --> New Connection:/127.0.0.1:50204
+2016.03.21 00.23.53 16 INFO:  --> File to be uploaded = a.tif
+2016.03.21 00.23.53 16 INFO:  --> File zu
+2016.03.21 00.23.53 16 INFO:  --> Req behandelt
+2016.03.21 00.23.53 16 INFO:  --> Res gesendet
+2016.03.21 00.23.53 16 INFO:  --> End Connection:/127.0.0.1:50204
+2016.03.21 00.23.53 17 INFO:  --> New Connection:/127.0.0.1:50205
+2016.03.21 00.23.53 17 INFO:  --> File to be uploaded = a.jpg
+2016.03.21 00.23.54 17 INFO:  --> File zu
+2016.03.21 00.23.54 17 INFO:  --> Req behandelt
+2016.03.21 00.23.54 17 INFO:  --> Res gesendet
+2016.03.21 00.23.54 17 INFO:  --> End Connection:/127.0.0.1:50205
+2016.03.21 00.26.18 18 INFO:  --> New Connection:/127.0.0.1:50225
+2016.03.21 00.26.52 18 INFO:  --> File to be uploaded = a.tif
+2016.03.21 00.27.07 18 INFO:  --> File zu
+2016.03.21 00.27.29 18 INFO:  --> Req behandelt
+2016.03.21 00.27.32 18 INFO:  --> Res gesendet
+2016.03.21 00.27.37 18 INFO:  --> End Connection:/127.0.0.1:50225
+2016.03.21 00.28.04 19 INFO:  --> New Connection:/127.0.0.1:50240
+2016.03.21 00.30.45 19 INFO:  --> File to be uploaded = a.tif
+2016.03.21 00.30.45 19 INFO:  --> File zu
+2016.03.21 00.30.45 19 INFO:  --> Req behandelt
+2016.03.21 00.30.45 19 INFO:  --> Res gesendet
+2016.03.21 00.30.45 19 INFO:  --> End Connection:/127.0.0.1:50240
+2016.03.21 00.31.04 20 INFO:  --> New Connection:/127.0.0.1:50266
+2016.03.21 00.32.19 20 INFO:  --> File to be uploaded = a.tif
+2016.03.21 00.33.37 21 INFO:  --> New Connection:/127.0.0.1:50298
+2016.03.21 00.33.37 21 INFO:  --> End Connection:/127.0.0.1:50298
+2016.03.21 00.33.37 22 INFO:  --> New Connection:/127.0.0.1:50299
+2016.03.21 00.33.37 22 SEVERE:  --> ERROR : GET /favicon.ico HTTP/1.1
+2016.03.21 00.33.37 23 INFO:  --> New Connection:/127.0.0.1:50300
+2016.03.21 00.33.37 22 SEVERE: socket closed
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.conetex.simpleFileReceptor.Server$Buffer.read(Server.java:273)
+	at org.conetex.simpleFileReceptor.Server.writeFile(Server.java:717)
+	at org.conetex.simpleFileReceptor.Server.logRequest(Server.java:609)
+	at org.conetex.simpleFileReceptor.Server.handleRequest(Server.java:491)
+	at org.conetex.simpleFileReceptor.Server.access$1(Server.java:464)
+	at org.conetex.simpleFileReceptor.Server$1.run(Server.java:134)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016.03.21 00.33.37 23 SEVERE:  --> ERROR : GET /favicon.ico HTTP/1.1
+2016.03.21 00.33.37 22 INFO:  --> End Connection:/127.0.0.1:50299
+2016.03.21 00.33.37 23 SEVERE: socket closed
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.conetex.simpleFileReceptor.Server$Buffer.read(Server.java:273)
+	at org.conetex.simpleFileReceptor.Server.writeFile(Server.java:717)
+	at org.conetex.simpleFileReceptor.Server.logRequest(Server.java:609)
+	at org.conetex.simpleFileReceptor.Server.handleRequest(Server.java:491)
+	at org.conetex.simpleFileReceptor.Server.access$1(Server.java:464)
+	at org.conetex.simpleFileReceptor.Server$1.run(Server.java:134)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016.03.21 00.33.37 23 INFO:  --> End Connection:/127.0.0.1:50300
+2016.03.21 00.35.55 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 00.36.00 14 INFO:  --> New Connection:/127.0.0.1:50318
+2016.03.21 00.36.00 16 INFO:  --> New Connection:/127.0.0.1:50320
+2016.03.21 00.36.00 17 INFO:  --> New Connection:/127.0.0.1:50321
+2016.03.21 00.36.00 15 INFO:  --> New Connection:/127.0.0.1:50319
+2016.03.21 00.36.00 14 INFO:  --> End Connection:/127.0.0.1:50318
+2016.03.21 00.36.14 16 SEVERE:  --> ERROR can't read request
+2016.03.21 00.36.14 17 SEVERE:  --> ERROR can't read request
+2016.03.21 00.36.14 15 SEVERE:  --> ERROR can't read request
+2016.03.21 00.36.14 16 INFO:  --> End Connection:/127.0.0.1:50320
+2016.03.21 00.36.14 15 INFO:  --> End Connection:/127.0.0.1:50319
+2016.03.21 00.36.14 17 INFO:  --> End Connection:/127.0.0.1:50321
+2016.03.21 00.37.21 18 INFO:  --> New Connection:/127.0.0.1:50336
+2016.03.21 00.37.21 20 INFO:  --> New Connection:/127.0.0.1:50338
+2016.03.21 00.37.21 19 INFO:  --> New Connection:/127.0.0.1:50337
+2016.03.21 00.37.21 18 INFO:  --> End Connection:/127.0.0.1:50336
+2016.03.21 00.37.35 19 SEVERE:  --> ERROR can't read request
+2016.03.21 00.37.35 20 SEVERE:  --> ERROR can't read request
+2016.03.21 00.37.35 19 INFO:  --> End Connection:/127.0.0.1:50337
+2016.03.21 00.37.35 20 INFO:  --> End Connection:/127.0.0.1:50338
+2016.03.21 00.37.43 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 00.37.47 14 INFO:  --> New Connection:/127.0.0.1:50345
+2016.03.21 00.37.47 15 INFO:  --> New Connection:/127.0.0.1:50346
+2016.03.21 00.37.47 16 INFO:  --> New Connection:/127.0.0.1:50347
+2016.03.21 00.37.47 14 INFO:  --> End Connection:/127.0.0.1:50345
+2016.03.21 00.38.06 16 SEVERE:  --> ERROR can't read request
+2016.03.21 00.38.06 15 SEVERE:  --> ERROR can't read request
+2016.03.21 00.38.06 16 INFO:  --> End Connection:/127.0.0.1:50347
+2016.03.21 00.38.06 15 INFO:  --> End Connection:/127.0.0.1:50346
+2016.03.21 00.39.57 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 00.40.01 14 INFO:  --> New Connection:/127.0.0.1:50364
+2016.03.21 00.40.01 14 INFO:  --> End Connection:/127.0.0.1:50364
+2016.03.21 09.54.35 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 09.54.58 14 INFO:  --> New Connection:/127.0.0.1:51572
+2016.03.21 09.54.58 14 INFO:  --> End Connection:/127.0.0.1:51572
+2016.03.21 09.54.58 15 INFO:  --> New Connection:/127.0.0.1:51573
+2016.03.21 09.54.58 15 SEVERE:  --> ERROR : GET /favicon.ico HTTP/1.1
+2016.03.21 09.54.58 15 SEVERE: socket closed
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.conetex.simpleFileReceptor.Server$Buffer.read(Server.java:273)
+	at org.conetex.simpleFileReceptor.Server.writeFile(Server.java:717)
+	at org.conetex.simpleFileReceptor.Server.logRequest(Server.java:609)
+	at org.conetex.simpleFileReceptor.Server.handleRequest(Server.java:491)
+	at org.conetex.simpleFileReceptor.Server.access$1(Server.java:464)
+	at org.conetex.simpleFileReceptor.Server$1.run(Server.java:134)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016.03.21 09.54.58 15 INFO:  --> End Connection:/127.0.0.1:51573
+2016.03.21 09.55.39 16 INFO:  --> New Connection:/127.0.0.1:51574
+2016.03.21 09.55.48 16 INFO:  --> File to be uploaded = AU-wp6.jpg
+2016.03.21 09.55.48 16 INFO:  --> File zu
+2016.03.21 09.55.48 16 INFO:  --> Req behandelt
+2016.03.21 09.55.48 16 INFO:  --> Res gesendet
+2016.03.21 09.55.48 16 INFO:  --> End Connection:/127.0.0.1:51574
+2016.03.21 09.56.21 17 INFO:  --> New Connection:/127.0.0.1:51575
+2016.03.21 09.56.27 17 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 09.56.28 17 INFO:  --> File zu
+2016.03.21 09.56.28 17 INFO:  --> Req behandelt
+2016.03.21 09.56.28 17 INFO:  --> Res gesendet
+2016.03.21 09.56.28 17 INFO:  --> End Connection:/127.0.0.1:51575
+2016.03.21 10.25.12 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 10.25.35 14 INFO:  --> New Connection:/127.0.0.1:51580
+2016.03.21 10.27.21 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 10.27.29 14 INFO:  --> New Connection:/127.0.0.1:51583
+2016.03.21 10.35.02 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 10.35.16 14 INFO:  --> New Connection:/127.0.0.1:51586
+2016.03.21 10.36.10 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 10.36.20 14 INFO:  --> New Connection:/127.0.0.1:51589
+2016.03.21 10.36.25 14 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 10.36.26 14 INFO:  --> File zu
+2016.03.21 10.36.26 14 INFO:  --> Req behandelt
+2016.03.21 10.36.26 14 INFO:  --> Res gesendet
+2016.03.21 10.36.26 14 INFO:  --> End Connection:/127.0.0.1:51589
+2016.03.21 10.38.05 15 INFO:  --> New Connection:/127.0.0.1:51590
+2016.03.21 10.38.12 15 INFO:  --> File to be uploaded = AU-wp6.jpg
+2016.03.21 10.38.12 15 INFO:  --> File zu
+2016.03.21 10.38.12 15 INFO:  --> Req behandelt
+2016.03.21 10.38.12 15 INFO:  --> Res gesendet
+2016.03.21 10.38.12 15 INFO:  --> End Connection:/127.0.0.1:51590
+2016.03.21 10.38.28 16 INFO:  --> New Connection:/127.0.0.1:51591
+2016.03.21 10.38.28 16 INFO:  --> File to be uploaded = AU-wp6.jpg
+2016.03.21 10.38.28 16 INFO:  --> File zu
+2016.03.21 10.38.28 16 INFO:  --> Req behandelt
+2016.03.21 10.38.28 16 INFO:  --> Res gesendet
+2016.03.21 10.38.28 16 INFO:  --> End Connection:/127.0.0.1:51591
+2016.03.21 10.40.06 17 INFO:  --> New Connection:/127.0.0.1:51592
+2016.03.21 10.40.06 17 INFO:  --> End Connection:/127.0.0.1:51592
+2016.03.21 10.40.15 19 INFO:  --> New Connection:/127.0.0.1:51594
+2016.03.21 10.40.15 18 INFO:  --> New Connection:/127.0.0.1:51593
+2016.03.21 10.40.15 18 INFO:  --> File to be uploaded = AU-wp60.tif
+2016.03.21 10.40.16 18 INFO:  --> File zu
+2016.03.21 10.40.16 18 INFO:  --> Req behandelt
+2016.03.21 10.40.16 18 INFO:  --> Res gesendet
+2016.03.21 10.40.16 18 INFO:  --> End Connection:/127.0.0.1:51593
+2016.03.21 10.41.50 19 SEVERE:  --> ERROR can't read request
+2016.03.21 10.41.50 19 INFO:  --> End Connection:/127.0.0.1:51594
+2016.03.21 10.41.56 20 INFO:  --> New Connection:/127.0.0.1:51595
+2016.03.21 10.41.56 21 INFO:  --> New Connection:/127.0.0.1:51596
+2016.03.21 10.47.20 20 SEVERE:  --> ERROR can't read request
+2016.03.21 10.47.20 20 INFO:  --> End Connection:/127.0.0.1:51595
+2016.03.21 12.28.47 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 12.28.58 14 INFO:  --> New Connection:/127.0.0.1:51611
+2016.03.21 12.28.58 15 INFO:  --> New Connection:/127.0.0.1:51612
+2016.03.21 12.34.21 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 12.34.59 1 INFO: S E R V E R   S T A R T E D
+2016.03.21 12.35.08 14 INFO:  --> New Connection:/127.0.0.1:51617
+2016.03.21 12.35.08 15 INFO:  --> New Connection:/127.0.0.1:51618
+2016.03.21 12.35.24 14 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 12.35.25 14 INFO:  --> File zu
+2016.03.21 12.35.25 14 INFO:  --> Req behandelt
+2016.03.21 12.35.25 14 INFO:  --> Res gesendet
+2016.03.21 12.35.25 14 INFO:  --> End Connection:/127.0.0.1:51617
+2016.03.21 12.36.58 15 SEVERE:  --> ERROR can't read request
+2016.03.21 12.36.58 15 INFO:  --> End Connection:/127.0.0.1:51618
+2016.03.21 12.37.56 16 INFO:  --> New Connection:/127.0.0.1:51619
+2016.03.21 12.37.56 16 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 12.37.57 16 INFO:  --> File zu
+2016.03.21 12.37.57 16 INFO:  --> Req behandelt
+2016.03.21 12.37.57 16 INFO:  --> Res gesendet
+2016.03.21 12.37.57 16 INFO:  --> End Connection:/127.0.0.1:51619
+2016.03.21 12.38.31 17 INFO:  --> New Connection:/127.0.0.1:51620
+2016.03.21 12.38.31 17 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 12.38.32 17 INFO:  --> File zu
+2016.03.21 12.38.32 17 INFO:  --> Req behandelt
+2016.03.21 12.38.32 17 INFO:  --> Res gesendet
+2016.03.21 12.38.32 17 INFO:  --> End Connection:/127.0.0.1:51620
+2016.03.21 12.39.46 18 INFO:  --> New Connection:/127.0.0.1:51622
+2016.03.21 12.39.46 19 INFO:  --> New Connection:/127.0.0.1:51621
+2016.03.21 12.39.46 19 INFO:  --> File to be uploaded = AU-wp6.jpg
+2016.03.21 12.39.46 19 INFO:  --> File zu
+2016.03.21 12.39.46 19 INFO:  --> Req behandelt
+2016.03.21 12.39.46 19 INFO:  --> Res gesendet
+2016.03.21 12.39.46 19 INFO:  --> End Connection:/127.0.0.1:51621
+2016.03.21 12.39.46 18 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 12.39.47 18 INFO:  --> File zu
+2016.03.21 12.39.47 18 INFO:  --> Req behandelt
+2016.03.21 12.39.47 18 INFO:  --> Res gesendet
+2016.03.21 12.39.47 18 INFO:  --> End Connection:/127.0.0.1:51622
+2016.03.21 12.39.47 21 INFO:  --> New Connection:/127.0.0.1:51622
+2016.03.21 12.39.47 20 INFO:  --> New Connection:/127.0.0.1:51623
+2016.03.21 12.39.47 20 INFO:  --> File to be uploaded = CA-wp1.jpg
+2016.03.21 12.39.47 20 INFO:  --> File zu
+2016.03.21 12.39.47 20 INFO:  --> Req behandelt
+2016.03.21 12.39.47 20 INFO:  --> Res gesendet
+2016.03.21 12.39.47 20 INFO:  --> End Connection:/127.0.0.1:51623
+2016.03.21 12.39.47 21 INFO:  --> File to be uploaded = CA-wp2.jpg
+2016.03.21 12.39.47 21 INFO:  --> File zu
+2016.03.21 12.39.47 21 INFO:  --> Req behandelt
+2016.03.21 12.39.47 21 INFO:  --> Res gesendet
+2016.03.21 12.39.47 21 INFO:  --> End Connection:/127.0.0.1:51622
+2016.03.21 12.40.22 22 INFO:  --> New Connection:/127.0.0.1:51625
+2016.03.21 12.40.22 23 INFO:  --> New Connection:/127.0.0.1:51624
+2016.03.21 12.40.22 22 INFO:  --> File to be uploaded = CA-wp2.jpg
+2016.03.21 12.40.22 22 INFO:  --> File zu
+2016.03.21 12.40.22 22 INFO:  --> Req behandelt
+2016.03.21 12.40.22 22 INFO:  --> Res gesendet
+2016.03.21 12.40.22 22 INFO:  --> End Connection:/127.0.0.1:51625
+2016.03.21 12.40.22 23 INFO:  --> File to be uploaded = AU-wp6.jpg
+2016.03.21 12.40.22 23 INFO:  --> File zu
+2016.03.21 12.40.22 23 INFO:  --> Req behandelt
+2016.03.21 12.40.22 23 INFO:  --> Res gesendet
+2016.03.21 12.40.22 23 INFO:  --> End Connection:/127.0.0.1:51624
+2016.03.21 12.40.22 25 INFO:  --> New Connection:/127.0.0.1:51626
+2016.03.21 12.40.22 24 INFO:  --> New Connection:/127.0.0.1:51627
+2016.03.21 12.40.22 24 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 12.40.23 24 INFO:  --> File zu
+2016.03.21 12.40.23 24 INFO:  --> Req behandelt
+2016.03.21 12.40.23 24 INFO:  --> Res gesendet
+2016.03.21 12.40.23 24 INFO:  --> End Connection:/127.0.0.1:51627
+2016.03.21 12.40.23 25 INFO:  --> File to be uploaded = CA-wp1.jpg
+2016.03.21 12.40.23 25 INFO:  --> File zu
+2016.03.21 12.40.23 25 INFO:  --> Req behandelt
+2016.03.21 12.40.23 25 INFO:  --> Res gesendet
+2016.03.21 12.40.23 25 INFO:  --> End Connection:/127.0.0.1:51626
+2016.03.21 12.40.52 26 INFO:  --> New Connection:/127.0.0.1:51630
+2016.03.21 12.40.52 26 INFO:  --> End Connection:/127.0.0.1:51630
+2016.03.21 12.40.52 27 INFO:  --> New Connection:/127.0.0.1:51631
+2016.03.21 12.40.52 27 SEVERE:  --> ERROR : GET /favicon.ico HTTP/1.1
+2016.03.21 12.40.52 27 SEVERE: socket closed
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.conetex.simpleFileReceptor.Server$Buffer.read(Server.java:273)
+	at org.conetex.simpleFileReceptor.Server.writeFile(Server.java:727)
+	at org.conetex.simpleFileReceptor.Server.logRequest(Server.java:618)
+	at org.conetex.simpleFileReceptor.Server.handleRequest(Server.java:500)
+	at org.conetex.simpleFileReceptor.Server.access$1(Server.java:473)
+	at org.conetex.simpleFileReceptor.Server$1.run(Server.java:134)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016.03.21 12.40.52 28 INFO:  --> New Connection:/127.0.0.1:51632
+2016.03.21 12.40.52 28 SEVERE:  --> ERROR : GET /favicon.ico HTTP/1.1
+2016.03.21 12.40.52 27 INFO:  --> End Connection:/127.0.0.1:51631
+2016.03.21 12.40.52 28 SEVERE: socket closed
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at org.conetex.simpleFileReceptor.Server$Buffer.read(Server.java:273)
+	at org.conetex.simpleFileReceptor.Server.writeFile(Server.java:727)
+	at org.conetex.simpleFileReceptor.Server.logRequest(Server.java:618)
+	at org.conetex.simpleFileReceptor.Server.handleRequest(Server.java:500)
+	at org.conetex.simpleFileReceptor.Server.access$1(Server.java:473)
+	at org.conetex.simpleFileReceptor.Server$1.run(Server.java:134)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016.03.21 12.40.52 28 INFO:  --> End Connection:/127.0.0.1:51632
+2016.03.21 12.41.15 29 INFO:  --> New Connection:/127.0.0.1:51633
+2016.03.21 12.41.15 29 INFO:  --> File to be uploaded = AU-wp6.jpg
+2016.03.21 12.41.15 29 INFO:  --> File zu
+2016.03.21 12.41.15 29 INFO:  --> Req behandelt
+2016.03.21 12.41.15 29 INFO:  --> Res gesendet
+2016.03.21 12.41.15 29 INFO:  --> End Connection:/127.0.0.1:51633
+2016.03.21 12.41.15 30 INFO:  --> New Connection:/127.0.0.1:51634
+2016.03.21 12.41.15 30 INFO:  --> File to be uploaded = AU-wp6.tif
+2016.03.21 12.41.16 30 INFO:  --> File zu
+2016.03.21 12.41.16 30 INFO:  --> Req behandelt
+2016.03.21 12.41.16 30 INFO:  --> Res gesendet
+2016.03.21 12.41.16 30 INFO:  --> End Connection:/127.0.0.1:51634
+2016.03.21 12.41.16 31 INFO:  --> New Connection:/127.0.0.1:51635
+2016.03.21 12.41.16 31 INFO:  --> File to be uploaded = CA-wp1.jpg
+2016.03.21 12.41.16 31 INFO:  --> File zu
+2016.03.21 12.41.16 31 INFO:  --> Req behandelt
+2016.03.21 12.41.16 31 INFO:  --> Res gesendet
+2016.03.21 12.41.16 31 INFO:  --> End Connection:/127.0.0.1:51635
+2016.03.21 12.41.16 32 INFO:  --> New Connection:/127.0.0.1:51636
+2016.03.21 12.41.16 32 INFO:  --> File to be uploaded = CA-wp2.jpg
+2016.03.21 12.41.16 32 INFO:  --> File zu
+2016.03.21 12.41.16 32 INFO:  --> Req behandelt
+2016.03.21 12.41.16 32 INFO:  --> Res gesendet
+2016.03.21 12.41.16 32 INFO:  --> End Connection:/127.0.0.1:51636
+2016.03.28 19.00.46 1 SEVERE: can not find _client\the simpleFileReceptor dropzone.htm! Shut Down ...
+2016.03.28 19.04.29 1 INFO: S E R V E R   S T A R T E D
+2016.03.28 20.09.24 1 INFO: S E R V E R   S T A R T E D
+2016.03.28 20.34.33 15 INFO:  --> New Connection:/127.0.0.1:51262
+2016.03.28 20.34.33 14 INFO:  --> New Connection:/127.0.0.1:51261
+2016.03.28 20.34.33 14 INFO:  --> instream is finished 
+2016.03.28 20.34.33 16 INFO:  --> instream is finished 
+2016.03.28 20.34.33 14 SEVERE:  --> ERROR : live
+2016.03.28 20.34.33 16 INFO:  --> outstream is finished 
+2016.03.28 20.34.33 16 INFO:  --> os.flush 
+2016.03.28 20.34.33 14 INFO:  --> outstream is finished 
+2016.03.28 20.34.33 14 INFO:  --> os.flush 
+2016.03.28 20.34.33 14 INFO:  --> os.close 
+2016.03.28 20.34.33 14 INFO:  --> is.close 
+2016.03.28 20.34.33 14 INFO:  --> s.close 
+2016.03.28 20.34.33 16 INFO:  --> os.close 
+2016.03.28 20.34.34 15 SEVERE:  --> ERROR : GET /favicon.ico HTTP/1.1
+2016.03.28 20.34.34 15 INFO:  --> instream is finished 
+2016.03.28 20.34.34 15 SEVERE:  --> ERROR : Host:
+2016.03.28 20.34.34 15 INFO:  --> outstream is finished 
+2016.03.28 20.34.34 15 INFO:  --> os.flush 
+2016.03.28 20.34.34 15 INFO:  --> os.close 
+2016.03.28 20.34.34 15 INFO:  --> is.close 
+2016.03.28 20.34.34 15 INFO:  --> s.close 
+2016.03.28 20.35.05 24 INFO:  --> New Connection:/127.0.0.1:51264
+2016.03.28 20.35.05 24 INFO:  --> Req behandelt
+2016.03.28 20.35.05 24 INFO:  --> Res gesendet
+2016.03.28 20.35.05 24 INFO:  --> instream is finished 
+2016.03.28 20.35.05 24 SEVERE:  --> ERROR : Host: 127.0.0.1
+2016.03.28 20.35.05 24 INFO:  --> outstream is finished 
+2016.03.28 20.35.05 24 INFO:  --> os.flush 
+2016.03.28 20.35.05 24 INFO:  --> os.close 
+2016.03.28 20.35.05 24 INFO:  --> is.close 
+2016.03.28 20.35.05 24 INFO:  --> s.close 
+2016.03.28 20.35.05 25 INFO:  --> instream is finished 
+2016.03.28 20.35.05 26 INFO:  --> instream is finished 
+2016.03.28 20.35.05 25 SEVERE: Socket soll mehrfach geschlossen werden!
+2016.03.28 20.35.05 26 SEVERE: Socket soll mehrfach geschlossen werden!
+2016.03.28 20.35.05 26 INFO:  --> outstream is finished 
+2016.03.28 20.35.05 26 SEVERE: Socket soll mehrfach geschlossen werden!
+2016.03.28 20.35.05 25 INFO:  --> outstream is finished 
+2016.03.28 20.35.05 25 SEVERE: Socket soll mehrfach geschlossen werden!
+2016.03.29 23.30.28 1 INFO: S E R V E R   S T A R T E D
+2016.03.29 23.34.55 16 INFO:  --> New Connection:/127.0.0.1:53893
+2016.03.29 23.34.55 17 INFO:  --> New Connection:/127.0.0.1:53894
+2016.03.29 23.34.55 18 INFO:  --> os.flush 
+2016.03.29 23.34.55 18 INFO:  --> os.close 
+2016.03.29 23.34.55 18 INFO:  --> is.close 
+2016.03.29 23.34.55 18 INFO:  --> s.close 
+2016.03.29 23.34.55 18 SEVERE: Socket soll mehrfach geschlossen werden!
+2016.03.29 23.34.56 17 SEVERE:  --> ERROR : GET /favicon.ico HTTP/1.1
+2016.03.29 23.34.56 20 INFO:  --> os.flush 
+2016.03.29 23.34.56 20 INFO:  --> os.close 
+2016.03.29 23.34.56 20 INFO:  --> is.close 
+2016.03.29 23.34.56 20 INFO:  --> s.close 
+2016.03.29 23.34.56 20 SEVERE: Socket soll mehrfach geschlossen werden!
+2016.03.29 23.35.11 22 INFO:  --> New Connection:/127.0.0.1:53895
+2016.03.29 23.35.11 22 INFO:  --> Req behandelt
+2016.03.29 23.35.11 22 INFO:  --> Res gesendet
+2016.04.08 23.21.06 1 INFO: S E R V E R   S T A R T E D
